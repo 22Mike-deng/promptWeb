@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Calendar, Clock } from 'lucide-react';
 import { supabase } from '../../lib/supabase';
+import Navbar from '../../components/Navbar';
 
 interface Post {
   id: string;
@@ -50,8 +51,9 @@ export default function BlogHomePage() {
 
   return (
     <div style={{ minHeight: '100vh', background: '#0a0a0f', color: 'white' }}>
+      <Navbar />
       {/* Hero Section */}
-      <div style={{ position: 'relative', padding: '120px 20px 80px', textAlign: 'center', overflow: 'hidden' }}>
+      <div style={{ position: 'relative', padding: '140px 20px 80px', textAlign: 'center', overflow: 'hidden' }}>
         <div style={{ position: 'absolute', inset: 0, background: 'radial-gradient(ellipse at 50% 50%, rgba(168,85,247,0.15) 0%, transparent 70%)' }} />
         <div style={{ position: 'absolute', inset: 0, backgroundImage: 'linear-gradient(rgba(168,85,247,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(168,85,247,0.03) 1px, transparent 1px)', backgroundSize: '50px 50px' }} />
         

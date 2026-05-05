@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Calendar, ArrowLeft, Eye } from 'lucide-react';
 import { supabase } from '../../lib/supabase';
+import Navbar from '../../components/Navbar';
 
 interface Post {
   id: string;
@@ -73,6 +74,7 @@ export default function PostPage() {
 
   return (
     <div style={{ minHeight: '100vh', background: '#0a0a0f', color: 'white' }}>
+      <Navbar />
       {/* Cover Image */}
       {post.cover_image && (
         <div style={{ height: '400px', overflow: 'hidden', position: 'relative' }}>
