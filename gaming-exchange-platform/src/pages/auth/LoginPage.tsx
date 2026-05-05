@@ -1,45 +1,26 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { useForm } from 'react-hook-form';
-import { zodResolver } from '@hookform/resolvers/zod';
-import { z } from 'zod';
-import { motion } from 'framer-motion';
 import { Mail, Lock, ArrowRight, Zap } from 'lucide-react';
-import { signIn } from '../../lib/supabase';
-import { useAppStore } from '../../stores/appStore';
-import { getTranslation } from '../../i18n';
-
-const loginSchema = z.object({
-  email: z.string().email(),
-  password: z.string().min(6),
-});
-
-type LoginForm = z.infer<typeof loginSchema>;
+import { supabase } from '../../lib/supabase';
 
 export default function LoginPage() {
   const navigate = useNavigate();
-  const { language, setUser, fetchProfile, setLoading, isLoading } = useAppStore();
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
 
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-  } = useForm<LoginForm>({
-    resolver: zodResolver(loginSchema),
-  });
-
-  const onSubmit = async (data: LoginForm) => {
+  const onSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
     setError('');
     setLoading(true);
 
     try {
-      const result = await signIn(data.email, data.password);
-      setUser(result.user);
-      await fetchProfile();
+      const { error } = await supabase.auth.signInWithPassword({ email, password });
+      if (error) throw error;
       navigate('/');
     } catch (err: any) {
-      setError(err.message || getTranslation(language, 'auth.invalid_credentials'));
+      setError(err.message || 'Invalid credentials');
     } finally {
       setLoading(false);
     }
@@ -113,10 +94,7 @@ export default function LoginPage() {
         }}
       />
 
-      <motion.div
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6 }}
+      <div
         style={{
           position: 'relative',
           zIndex: 10,
@@ -150,10 +128,7 @@ export default function LoginPage() {
 
           {/* Logo */}
           <div style={{ textAlign: 'center', marginBottom: '32px' }}>
-            <motion.div
-              initial={{ scale: 0, rotate: -180 }}
-              animate={{ scale: 1, rotate: 0 }}
-              transition={{ type: 'spring', stiffness: 200, damping: 15, delay: 0.2 }}
+            <div
               style={{
                 width: '80px',
                 height: '80px',
@@ -167,12 +142,9 @@ export default function LoginPage() {
               }}
             >
               <Zap size={40} color="white" />
-            </motion.div>
+            </div>
 
-            <motion.h1
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.4 }}
+            <h1
               style={{
                 fontFamily: "'Orbitron', sans-serif",
                 fontSize: '28px',
@@ -183,31 +155,24 @@ export default function LoginPage() {
                 marginBottom: '8px',
               }}
             >
-              {getTranslation(language, 'auth.login_title')}
-            </motion.h1>
+              登录
+            </h1>
 
-            <motion.p
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 0.5 }}
+            <p
               style={{
                 fontFamily: "'Rajdhani', sans-serif",
                 color: '#9ca3af',
                 fontSize: '16px',
               }}
             >
-              {getTranslation(language, 'auth.login_subtitle')}
-            </motion.p>
+              登录以继续你的冒险
+            </p>
           </div>
 
           {/* Form */}
-          <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+          <form onSubmit={onSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
             {/* Email field */}
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.5 }}
-            >
+            <div>
               <label
                 style={{
                   display: 'block',
@@ -220,7 +185,7 @@ export default function LoginPage() {
                   letterSpacing: '0.05em',
                 }}
               >
-                {getTranslation(language, 'common.email')}
+                邮箱
               </label>
               <div style={{ position: 'relative' }}>
                 <Mail
@@ -235,8 +200,9 @@ export default function LoginPage() {
                   }}
                 />
                 <input
-                  {...register('email')}
                   type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
                   placeholder="adventure@example.com"
                   style={{
                     width: '100%',
@@ -249,6 +215,7 @@ export default function LoginPage() {
                     fontFamily: "'Rajdhani', sans-serif",
                     outline: 'none',
                     transition: 'all 0.3s ease',
+                    boxSizing: 'border-box',
                   }}
                   onFocus={(e) => {
                     e.target.style.borderColor = '#a855f7';
@@ -260,28 +227,10 @@ export default function LoginPage() {
                   }}
                 />
               </div>
-              {errors.email && (
-                <motion.p
-                  initial={{ opacity: 0, y: -5 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  style={{
-                    color: '#ef4444',
-                    fontSize: '13px',
-                    marginTop: '6px',
-                    fontFamily: "'Rajdhani', sans-serif",
-                  }}
-                >
-                  {errors.email.message}
-                </motion.p>
-              )}
-            </motion.div>
+            </div>
 
             {/* Password field */}
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.6 }}
-            >
+            <div>
               <label
                 style={{
                   display: 'block',
@@ -294,7 +243,7 @@ export default function LoginPage() {
                   letterSpacing: '0.05em',
                 }}
               >
-                {getTranslation(language, 'common.password')}
+                密码
               </label>
               <div style={{ position: 'relative' }}>
                 <Lock
@@ -309,8 +258,9 @@ export default function LoginPage() {
                   }}
                 />
                 <input
-                  {...register('password')}
                   type="password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
                   placeholder="••••••••"
                   style={{
                     width: '100%',
@@ -323,6 +273,7 @@ export default function LoginPage() {
                     fontFamily: "'Rajdhani', sans-serif",
                     outline: 'none',
                     transition: 'all 0.3s ease',
+                    boxSizing: 'border-box',
                   }}
                   onFocus={(e) => {
                     e.target.style.borderColor = '#a855f7';
@@ -334,27 +285,11 @@ export default function LoginPage() {
                   }}
                 />
               </div>
-              {errors.password && (
-                <motion.p
-                  initial={{ opacity: 0, y: -5 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  style={{
-                    color: '#ef4444',
-                    fontSize: '13px',
-                    marginTop: '6px',
-                    fontFamily: "'Rajdhani', sans-serif",
-                  }}
-                >
-                  {errors.password.message}
-                </motion.p>
-              )}
-            </motion.div>
+            </div>
 
             {/* Error message */}
             {error && (
-              <motion.div
-                initial={{ opacity: 0, scale: 0.95 }}
-                animate={{ opacity: 1, scale: 1 }}
+              <div
                 style={{
                   padding: '12px 16px',
                   background: 'rgba(239,68,68,0.1)',
@@ -371,18 +306,13 @@ export default function LoginPage() {
                 >
                   {error}
                 </p>
-              </motion.div>
+              </div>
             )}
 
             {/* Submit button */}
-            <motion.button
+            <button
               type="submit"
-              disabled={isLoading}
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.7 }}
+              disabled={loading}
               style={{
                 width: '100%',
                 padding: '16px',
@@ -393,8 +323,8 @@ export default function LoginPage() {
                 fontFamily: "'Orbitron', sans-serif",
                 fontSize: '16px',
                 fontWeight: 700,
-                cursor: isLoading ? 'not-allowed' : 'pointer',
-                opacity: isLoading ? 0.7 : 1,
+                cursor: loading ? 'not-allowed' : 'pointer',
+                opacity: loading ? 0.7 : 1,
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
@@ -403,7 +333,7 @@ export default function LoginPage() {
                 transition: 'all 0.3s ease',
               }}
             >
-              {isLoading ? (
+              {loading ? (
                 <div
                   style={{
                     width: '20px',
@@ -416,18 +346,15 @@ export default function LoginPage() {
                 />
               ) : (
                 <>
-                  <span>{getTranslation(language, 'common.login')}</span>
+                  <span>登录</span>
                   <ArrowRight size={20} />
                 </>
               )}
-            </motion.button>
+            </button>
           </form>
 
           {/* Register link */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ delay: 0.8 }}
+          <div
             style={{
               marginTop: '24px',
               textAlign: 'center',
@@ -440,7 +367,7 @@ export default function LoginPage() {
                 fontSize: '15px',
               }}
             >
-              {getTranslation(language, 'auth.no_account')}{' '}
+              还没有账号？{' '}
               <Link
                 to="/register"
                 style={{
@@ -451,12 +378,12 @@ export default function LoginPage() {
                   textDecoration: 'none',
                 }}
               >
-                {getTranslation(language, 'common.register')}
+                注册
               </Link>
             </p>
-          </motion.div>
+          </div>
         </div>
-      </motion.div>
+      </div>
 
       <style>{`
         @keyframes float {
