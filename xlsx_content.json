@@ -1,0 +1,1307 @@
+{
+  "sheet_name": "角色立绘提示词",
+  "max_row": 129,
+  "max_column": 8,
+  "headers": [
+    "序号",
+    "风格大类",
+    "角色类型",
+    "提示词名称",
+    "英文提示词 (English Prompt)",
+    "中文提示词 (中文提示词)",
+    "使用场景 / 说明",
+    "推荐比例"
+  ],
+  "data": [
+    [
+      "序号",
+      "风格大类",
+      "角色类型",
+      "提示词名称",
+      "英文提示词 (English Prompt)",
+      "中文提示词 (中文提示词)",
+      "使用场景 / 说明",
+      "推荐比例"
+    ],
+    [
+      "📁 玄幻修仙",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      1,
+      "玄幻修仙",
+      "修仙男主",
+      "剑修立绘",
+      "Full body character illustration of a male sword cultivator in Chinese xianxia fantasy style. A young man in his mid-20s with sharp angular features, long black hair tied in a high ponytail with a jade hairpin, piercing ice-blue eyes. Wearing flowing white and pale blue daoist robes with silver cloud embroidery, a leather belt with a jade pendant, and arm bracers. Holding a glowing ethereal sword emitting pale blue spiritual energy, the blade inscribed with ancient runes. Standing on a cliff edge above a sea of clouds at sunset, wind blowing his robes dramatically. Aura of spiritual pressure visible as faint glowing particles around him. Dynamic pose with sword pointed downward, one foot slightly forward. Anime-influenced Chinese fantasy art style, detailed fabric physics, volumetric lighting, cinematic composition. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国玄幻仙侠风格的男性剑修。25岁左右青年，棱角分明的面容，黑色长发用玉簪束成高马尾，锐利的冰蓝色眼睛。身穿飘逸的白色和淡蓝色道袍，银色云纹刺绣，皮质腰带配玉佩，臂甲。手持一把散发淡蓝色灵气的发光飞剑，剑身刻有古老符文。站在日落时分的悬崖边缘，脚下是云海，风吹动道袍。灵压气场以微弱发光粒子形式可见。动态姿势，剑尖朝下，一脚微前倾。动漫风格中国奇幻艺术，精细布料物理效果，体积光，电影构图。无文字，无水印。9:16竖版。",
+      "仙侠小说男主，剑修角色立绘",
+      "9:16"
+    ],
+    [
+      2,
+      "玄幻修仙",
+      "修仙男主",
+      "丹修立绘",
+      "Full body character illustration of a male alchemist cultivator in Chinese xianxia style. A scholarly man around 30 years old with gentle features, medium-length black hair partially tied, warm amber eyes behind round spectacles. Wearing layered earth-tone robes in brown, ochre and dark green with alchemical symbols embroidered on the sleeves, a sash with multiple small medicine pouches. One hand holding a glowing jade cauldron emitting golden vapor and swirling pill fragments, the other hand making a sealing gesture. Surrounded by floating medicinal herbs and golden spirit particles. Standing in an ancient alchemy chamber with stone shelves of medicine jars in the blurred background. Warm golden ambient light from the cauldron illuminating his face. Serene yet powerful expression. Chinese fantasy illustration, detailed textures, soft warm lighting. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的男性丹修。30岁左右书生气质男子，温和面容，黑色中长发半束，圆框眼镜后温暖的琥珀色眼睛。身穿层叠的大地色调道袍，棕色、赭石和深绿色，袖口绣有炼丹符文，腰带上挂着多个小药囊。一手持散发金色蒸汽和旋转丹碎片的发光玉鼎，另一手结印。周围漂浮着药草和金色灵气粒子。站在古老的炼丹室中，背景模糊可见石架上排列的药罐。鼎中温暖金色环境光照亮他的脸庞。宁静而强大的表情。中国奇幻插画，精细纹理，柔和暖光。无文字，无水印。9:16竖版。",
+      "仙侠丹修角色，炼丹师立绘",
+      "9:16"
+    ],
+    [
+      3,
+      "玄幻修仙",
+      "修仙男主",
+      "体修立绘",
+      "Full body character illustration of a male body cultivation cultivator in Chinese xianxia style. A muscular man in his late 20s with a rugged square jaw, short spiky black hair, fierce tiger-like golden eyes. Upper body exposed showing sculpted muscles with faint golden vein patterns glowing beneath the skin, wearing only loose dark brown pants and wrapped fists with bandages. A massive iron halberd planted in the ground beside him, crackling with earth-elemental energy. Standing in a volcanic wasteland with lava cracks glowing orange in the background, heat distortion visible. Power stance with arms crossed, golden aura emanating from his body forming a subtle tiger phantom behind him. Intense and domineering presence. Chinese dark fantasy art style, dynamic composition, dramatic rim lighting. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的男性体修。28岁左右肌肉发达男子，粗犷方形下颌，短刺黑发，凶猛虎形金色眼睛。上身赤裸展示雕塑般肌肉，皮肤下隐约可见金色经脉纹路发光，仅穿宽松深棕色裤子和缠绑布条的拳头。身旁插着一把巨大的铁戟，裂纹中闪烁土元素能量。站在火山荒原中，背景可见发橙光的岩浆裂缝，热浪扭曲可见。力量姿势双臂交叉，金色气场从身体散发，身后形成微妙的虎形幻影。强烈霸道的气场。中国暗黑奇幻艺术风格，动态构图，戏剧性边缘光。无文字，无水印。9:16竖版。",
+      "体修/武修角色，霸气风格",
+      "9:16"
+    ],
+    [
+      4,
+      "玄幻修仙",
+      "修仙女主",
+      "仙子立绘",
+      "Full body character illustration of a female immortal fairy in Chinese xianxia style. A young woman with an ethereal beauty, porcelain skin, long flowing silver-white hair reaching her waist, luminous violet eyes with star-like reflections. Wearing a multi-layered celestial silk gown in white and lavender with lotus petal patterns, translucent sleeves revealing slender arms with a spirit bracelet, a golden coronet with dangling jade tassels. Floating gracefully above a lotus pond at night, moonlight reflecting off the water, surrounded by glowing fireflies and falling cherry blossom petals. One hand gently extended downward, fingertips emitting soft white light. Serene and otherworldly expression. Chinese high fantasy illustration, luminous lighting, dreamy atmosphere, detailed silk texture. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的女性仙子。年轻女子，超凡脱俗的美貌，瓷白肌肤，银白色长发飘逸至腰，发光的紫色眼睛带星光反射。身穿多层天丝仙裙，白色和薰衣草色，莲花花瓣纹样，半透明袖口露出纤细手臂和灵力手镯，金色凤冠垂挂玉穗。优雅地悬浮在夜晚的莲花池上方，月光倒映水面，周围环绕发光萤火虫和飘落的樱花花瓣。一只手轻柔向下伸出，指尖散发柔和白光。宁静超凡的表情。中国高端奇幻插画，发光照明，梦幻氛围，精细丝绸纹理。无文字，无水印。9:16竖版。",
+      "仙侠女主，仙子/神女立绘",
+      "9:16"
+    ],
+    [
+      5,
+      "玄幻修仙",
+      "修仙女主",
+      "魔女立绘",
+      "Full body character illustration of a female demon cultivator in Chinese dark xianxia style. A seductive woman in her mid-20s with sharp features, long crimson hair with black streaks, one eye crimson and one eye gold (heterochromia), dark lipstick. Wearing a form-fitting black and deep red dress with spider web and skull motifs, a choker with a blood-red gem, long gloves, thigh-high boots with silver buckles. Holding a chain-connected twin scythe dripping with dark purple energy, the chains wrapped around one arm. Standing on a throne of black bones in a demon realm, purple and red lightning crackling in the dark sky behind her. Confident smirk, one hand on hip. Dark fantasy anime style, high contrast lighting, dramatic shadows, gothic Chinese fusion aesthetic. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国暗黑仙侠风格的女性魔修。25岁左右魅惑女子，锐利面容，深红色长发带黑色条纹，异色瞳（一只深红一只金色），深色唇膏。身穿贴身黑色和深红色连衣裙，蛛网和骷髅图案，血红宝石颈圈，长手套，银扣及膝靴。手持链式双镰刀，滴落暗紫色能量，链条缠绕一臂。站在魔界黑骨王座上，身后暗紫色和红色闪电在黑暗天空中劈裂。自信冷笑，一手叉腰。暗黑奇幻动漫风格，高对比度光线，戏剧性阴影，哥特中式融合美学。无文字，无水印。9:16竖版。",
+      "魔修/反派女主，暗黑风格",
+      "9:16"
+    ],
+    [
+      6,
+      "玄幻修仙",
+      "修仙女主",
+      "圣女立绘",
+      "Full body character illustration of a holy maiden in Chinese xianxia style. A pure and dignified young woman with an oval face, long black hair styled in an elaborate updo with golden hairpins and pearl ornaments, gentle jade-green eyes. Wearing a ceremonial white and gold robe with phoenix and cloud patterns, a translucent golden veil over her lower face, multiple layered sashes in pale gold and white. Kneeling in a grand temple interior with incense smoke rising, golden Buddha light rays streaming through lattice windows, lotus flowers floating in the air around her. Hands clasped in prayer, a glowing lotus sigil floating above her palms. Serene and compassionate expression. Chinese religious fantasy art, warm golden lighting, sacred atmosphere, intricate architectural details. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的圣女。纯洁端庄的年轻女子，鹅蛋脸，黑色长发梳成精致发髻配金簪和珍珠饰品，温柔翠绿色眼睛。身穿仪式感白色和金色长袍，凤凰和云纹图案，下半脸覆半透明金色面纱，多层淡金色和白色飘带。跪在宏伟的寺庙内部，香烟袅袅升起，金色佛光透过花格窗照射，莲花在周围空气中漂浮。双手合十祈祷，掌心上方漂浮发光的莲花印记。宁静慈悲的表情。中国宗教奇幻艺术，温暖金色光线，神圣氛围，精致建筑细节。无文字，无水印。9:16竖版。",
+      "圣女/神女角色，庄严风格",
+      "9:16"
+    ],
+    [
+      7,
+      "玄幻修仙",
+      "玄幻配角",
+      "太上长老立绘",
+      "Full body character illustration of a supreme elder in Chinese xianxia style. An ancient man appearing 60 years old but with vitality, long white beard reaching his chest, thick white eyebrows, deep piercing eyes that seem to hold cosmic wisdom. Wearing elaborate multi-layered dark purple and gold robes with celestial dragon embroidery, a jade belt with a storage ring, a wooden staff topped with a glowing spirit stone. Floating in a cross-legged meditation pose above a mountain peak, surrounded by orbiting ancient runes and a massive protective array formation visible on the ground below. Long white hair and beard flowing upward due to spiritual energy. Aura of immense power creating distortion in the air around him. Chinese epic fantasy art, majestic atmosphere, dramatic top-down lighting, ultra-detailed. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的太上长老。看似60岁的古老男子但充满活力，白色长须及胸，浓密白眉，深邃锐利的眼神似乎蕴含宇宙智慧。身穿精致多层深紫色和金色道袍，天龙刺绣，玉带配储物戒，顶端镶嵌发光灵石的手杖。盘腿悬浮在山巅之上，周围环绕旋转的古老符文，下方地面可见巨大的护宗阵法。白色长发和长须因灵力向上飘动。强大气场在周围空气中产生扭曲。中国史诗奇幻艺术，庄严氛围，戏剧性顶光，超精细。无文字，无水印。9:16竖版。",
+      "宗门长老/老祖角色",
+      "9:16"
+    ],
+    [
+      8,
+      "玄幻修仙",
+      "玄幻配角",
+      "妖王立绘",
+      "Full body character illustration of a demon king in Chinese xianxia style. A towering figure with a humanoid upper body but bull-like horns curving from his temples, long wild black hair, crimson eyes with vertical slit pupils, fangs visible. Torso covered in dark scaled armor with bone spikes, massive fur cape made from a nine-tailed fox pelt. Wielding an enormous black iron mace crackling with purple lightning. Standing atop a mountain of skulls in a dark nether realm, blood-red moon behind him, an army of shadow soldiers visible in the mist below. Dominating and terrifying presence, muscles bulging, ground cracking beneath his feet. Chinese dark fantasy illustration, imposing scale, dramatic backlighting, horror-fantasy fusion. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的妖王。高大身躯，人形上身但太阳穴处弯曲牛角，狂野黑色长发，红色竖瞳眼睛，可见獠牙。上身覆盖深色鳞甲配骨刺，九尾狐皮制成的巨大毛披风。挥舞一把闪烁紫色闪电的巨大黑铁锤。站在暗黑冥界的骷髅山上，身后血红色月亮，下方雾中可见暗影军队。威压恐怖的气场，肌肉隆起，脚下地面龟裂。中国暗黑奇幻插画，压迫性尺度，戏剧性逆光，恐怖奇幻融合。无文字，无水印。9:16竖版。",
+      "妖王/魔尊角色，反派BOSS",
+      "9:16"
+    ],
+    [
+      9,
+      "玄幻修仙",
+      "玄幻配角",
+      "宗门圣子立绘",
+      "Full body character illustration of a holy son of a cultivation sect in Chinese xianxia style. A handsome young man around 22 with an arrogant yet noble bearing, sharp jawline, golden-blond hair in a half-up warrior's knot, amber eyes with a vertical golden pupil. Wearing pristine white and gold sect robes with a sun crest on the back, a golden sash, white boots with gold trim. One hand holding a scripture scroll emitting golden light, the other hand forming a sword finger with a small golden sword of light at the fingertip. Standing at the entrance of a grand sect gate with disciples bowing in the background, golden sunlight breaking through clouds behind him. Confident and slightly aloof expression. Chinese cultivation novel illustration, bright and radiant aesthetic, clean lines. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的宗门圣子。22岁左右英俊青年，傲慢而高贵的气质，锐利下颌线，金棕色头发束成半高武士髻，琥珀色眼睛带金色竖瞳。身穿洁白的金色宗门道袍，背部太阳纹章，金色腰带，白靴金边。一手持散发金光的经卷，另一手结剑指指尖有金色光剑。站在宏伟宗门入口处，背景弟子鞠躬，身后金色阳光穿透云层。自信略带冷漠的表情。中国修仙小说插画，明亮光辉美学，干净线条。无文字，无水印。9:16竖版。",
+      "宗门圣子/天才角色",
+      "9:16"
+    ],
+    [
+      10,
+      "玄幻修仙",
+      "神兽/灵宠",
+      "九尾灵狐立绘",
+      "Full body illustration of a nine-tailed spirit fox in Chinese xianxia style. A magnificent fox the size of a horse with pristine white fur that glows with a soft blue luminescence, nine long flowing tails each tipped with a different colored flame (blue, white, gold, purple, green, red, cyan, silver, pink). Intelligent azure eyes with slit pupils, delicate fox features with ancient wisdom. Standing on a moonlit mountain peak, each tail trailing ethereal flame that forms constellation-like patterns in the night sky. Spiritual energy swirling around its paws creating frost patterns on the rock surface. Majestic and divine presence. Chinese mythological fantasy art, luminous effects, ethereal atmosphere, ultra-detailed fur texture. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，中国仙侠风格的九尾灵狐。马匹大小的华丽白狐，纯白皮毛散发柔和蓝色荧光，九条飘逸长尾各末端有不同颜色火焰（蓝、白、金、紫、绿、红、青、银、粉）。聪慧的蔚蓝色竖瞳眼睛，精致狐面蕴含古老智慧。站在月光下的山巅，每条尾巴拖曳空灵火焰在夜空中形成星座般的图案。灵力在爪周旋绕在岩石表面形成冰霜纹样。庄严神圣的气场。中国神话奇幻艺术，发光效果，空灵氛围，超精细毛发纹理。无文字，无水印。9:16竖版。",
+      "灵宠/神兽立绘",
+      "9:16"
+    ],
+    [
+      11,
+      "玄幻修仙",
+      "神兽/灵宠",
+      "五爪金龙立绘",
+      "Full body illustration of a five-clawed golden dragon in Chinese xianxia style. A massive imperial dragon with iridescent golden scales that shift between gold, amber and bronze, five razor-sharp claws on each limb, sinuous serpentine body coiling through clouds. Majestic dragon head with crown-like horns, flowing whiskers, and pearl-like eyes. Surrounded by swirling storm clouds, lightning crackling between scales, rainbows forming in the mist. Coiling around a celestial pagoda floating above a sea of clouds. Divine and awe-inspiring presence, every scale individually rendered. Chinese imperial dragon art, dynamic composition, dramatic atmospheric lighting, mythological epic quality. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，中国仙侠风格的五爪金龙。巨大的帝王龙，虹彩金色鳞片在金、琥珀和青铜色之间变化，每肢五把锋利利爪，蜿蜒蛇形身体盘旋穿行于云间。威严龙头配皇冠般龙角，飘逸龙须，珍珠般眼睛。环绕旋转的风暴云，鳞片间闪电劈裂，雾中形成彩虹。盘绕在云海之上漂浮的天阁周围。神圣令人敬畏的气场，每片鳞片单独渲染。中国帝王龙艺术，动态构图，戏剧性大气光线，神话史诗品质。无文字，无水印。9:16竖版。",
+      "龙族/神兽立绘",
+      "9:16"
+    ],
+    [
+      12,
+      "玄幻修仙",
+      "玄幻场景",
+      "修仙宗门大殿",
+      "Create a grand cultivation sect hall interior in Chinese xianxia style. A vast circular main hall with towering jade pillars inscribed with glowing runes, a massive yin-yang symbol inlaid in the marble floor, a high throne-like seat at the far end on a raised platform. Floating lanterns casting warm golden light, incense smoke creating atmospheric haze, silk banners with sect crests hanging from the ceiling. Hundreds of kneeling disciples in white robes visible in the foreground. Beam of golden light descending from the dome ceiling onto the central platform. Epic scale, Chinese palace architecture meets fantasy, volumetric god rays, ultra-detailed architectural elements. No text, no watermark. 16:9 horizontal format.",
+      "创建一张中国仙侠风格的宏伟修仙宗门大殿内部。巨大的圆形主殿，高耸的玉柱刻有发光符文，大理石地面镶嵌巨大的阴阳图案，远端高台上的宝座式座椅。漂浮灯笼投射温暖金色光线，香烟营造大气薄雾，天花板上悬挂丝绸宗门旗帜。前景可见数百名穿白袍跪坐的弟子。金色光束从穹顶射向中央平台。史诗尺度，中国宫殿建筑融合奇幻，体积光束，超精细建筑元素。无文字，无水印。16:9横版。",
+      "宗门场景，小说插图",
+      "16:9"
+    ],
+    [
+      13,
+      "玄幻修仙",
+      "玄幻场景",
+      "仙界仙境",
+      "Create a celestial immortal realm landscape in Chinese xianxia style. Floating islands connected by rainbow bridges, waterfalls flowing upward into the sky, crystalline palaces with glowing facades, peach blossom trees with golden leaves. A massive jade staircase ascending into clouds where a golden palace is partially visible. Celestial beings flying on swords and cranes in the distance. Ethereal golden and cyan color palette, soft diffused heavenly light, mist and cloud layers creating depth. Chinese celestial art meets high fantasy, dreamlike and transcendent atmosphere, ultra-wide composition. No text, no watermark. 16:9 horizontal format.",
+      "创建一张中国仙侠风格的天界仙境风景。浮空岛屿由彩虹桥连接，瀑布向上流入天空，水晶宫殿发光的立面，金叶桃花树。巨大的玉阶升入云端，金色宫殿若隐若现。远处仙人御剑和骑鹤飞行。空灵金色和青色调，柔和漫射天光，雾和云层创造深度。中国天界艺术融合高端奇幻，梦幻超脱氛围，超宽构图。无文字，无水印。16:9横版。",
+      "仙界场景，概念艺术",
+      "16:9"
+    ],
+    [
+      14,
+      "玄幻修仙",
+      "修仙法宝",
+      "飞剑立绘",
+      "Create a detailed illustration of a cultivation flying sword in Chinese xianxia style. A slender elegant sword with a white jade blade that glows from within, the surface inscribed with ancient Daoist runes that pulse with blue light. The hilt is wrapped in white silk with a tassel of red threads and a small jade pendant. The sword floats at a diagonal angle, emitting a trail of blue spiritual energy particles, surrounded by faint wind currents visible as translucent swirls. Dark background with subtle mountain silhouettes. Clean product-shot style composition, dramatic rim lighting, ethereal glow effects. Chinese fantasy weapon art, 9:16 vertical format.",
+      "创建一张中国仙侠风格修仙飞剑的精细插图。纤细优雅的剑，白玉剑身从内部发光，表面刻有脉动蓝光的古老道符。剑柄缠绕白色丝绸，配红线流苏和小玉佩。剑以对角线角度悬浮，散发蓝色灵气粒子轨迹，周围可见半透明旋涡状的微弱气流。深色背景配微妙山峦剪影。干净产品照风格构图，戏剧性边缘光，空灵发光效果。中国奇幻武器艺术，9:16竖版。",
+      "法宝/武器立绘，道具设计",
+      "9:16"
+    ],
+    [
+      15,
+      "玄幻修仙",
+      "修仙法宝",
+      "乾坤鼎立绘",
+      "Create a detailed illustration of a mystical alchemy cauldron in Chinese xianxia style. A large three-legged bronze cauldron with intricate relief carvings of the four divine beasts (dragon, phoenix, tiger, tortoise) on its surface. The cauldron glows with internal golden fire, steam and golden pill fragments rising from the top. Ancient runes orbiting around it, the ground beneath cracked with golden light seeping through. Dark moody background with swirling alchemical symbols. Epic fantasy artifact illustration, dramatic warm lighting from the cauldron, detailed bronze texture and patina. No text, no watermark. 9:16 vertical format.",
+      "创建一张中国仙侠风格神秘炼丹鼎的精细插图。大型三足青铜鼎，表面浮雕雕刻四神兽（龙、凤、虎、龟）。鼎内发光金色火焰，顶部升起蒸汽和金色丹碎片。古老符文环绕旋转，下方地面龟裂金色光芒渗出。暗色情绪背景配旋转炼丹符号。史诗奇幻神器插图，鼎部戏剧性暖光，精细青铜纹理和铜绿。无文字，无水印。9:16竖版。",
+      "炼丹鼎/法宝立绘",
+      "9:16"
+    ],
+    [
+      "📁 国风武侠",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      16,
+      "国风武侠",
+      "武侠男主",
+      "侠客立绘",
+      "Full body character illustration of a wandering swordsman in Chinese wuxia style. A man in his late 20s with a weathered but handsome face, stubble, messy half-tied black hair, determined eyes. Wearing a worn dark blue changshan (traditional long gown) with a bamboo hat (douli) hanging on his back, a leather sword belt, cloth wraps on his forearms, straw sandals. Carrying a simple iron sword with a worn leather scabbard. Standing on an ancient stone bridge over a misty river at dawn, willow trees on the banks, a small village visible in the distance. Wind blowing his robes and hair. Melancholic yet resolute expression. Traditional Chinese ink-wash painting meets anime style, muted earth tones, soft morning light, atmospheric perspective. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国武侠风格的游侠。28岁左右饱经风霜但英俊的面容，胡茬，凌乱半束黑发，坚定的眼神。穿深蓝色旧长衫，背上挂着竹笠，皮剑带，前臂缠布条，草鞋。携带一把朴素铁剑配磨损皮鞘。站在黎明时分雾河上的古石桥，岸边柳树，远处可见小村庄。风吹动他的衣袍和头发。忧郁但坚毅的表情。中国传统水墨画融合动漫风格，柔和大地色调，柔和晨光，大气透视。无文字，无水印。9:16竖版。",
+      "武侠男主，江湖游侠",
+      "9:16"
+    ],
+    [
+      17,
+      "国风武侠",
+      "武侠男主",
+      "剑客立绘",
+      "Full body character illustration of a master swordsman in Chinese wuxia style. A middle-aged man with a calm and weathered face, short neat black hair streaked with gray at temples, sharp observant eyes. Wearing a tailored black martial arts outfit with silver frog buttons, a dark red sash, black cloth boots, fingerless gloves. A jian (straight sword) held horizontally in one hand with the blade reflecting moonlight, the other hand behind his back. Standing in a bamboo forest at night, moonlight filtering through bamboo leaves creating dappled shadows, a faint mist on the ground. Perfect stillness before explosive action. Ink-wash anime fusion style, high contrast moonlight and shadow, elegant composition. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国武侠风格的一代剑客。中年男子，平静饱经风霜的面容，短整齐黑发鬓角灰白，锐利洞察的眼睛。穿合身黑色武术服配银色盘扣，深红腰带，黑布靴，露指手套。一手水平持剑，剑刃反射月光，另一手背在身后。站在夜晚竹林中，月光透过竹叶形成斑驳阴影，地面薄雾。爆发行动前的完美静止。水墨动漫融合风格，高对比度月光和阴影，优雅构图。无文字，无水印。9:16竖版。",
+      "一代宗师，剑道高手",
+      "9:16"
+    ],
+    [
+      18,
+      "国风武侠",
+      "武侠女主",
+      "女侠立绘",
+      "Full body character illustration of a female martial artist in Chinese wuxia style. A young woman around 25 with a fierce and beautiful face, high ponytail of black hair tied with a red ribbon, sharp almond eyes. Wearing a fitted red and black martial arts outfit with gold trim, arm guards, a quiver of throwing knives on her thigh, light boots. Performing a spinning kick in mid-air, one leg extended, arms in a defensive position, hair and ribbon trailing dramatically. Standing on a rooftop in an ancient Chinese city at dusk, curved tile roofs and paper lanterns visible below. Dynamic action pose, wind effect on clothing. Chinese wuxia anime style, warm sunset lighting, motion blur on extremities. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国武侠风格的女侠。25岁左右凶美面容，黑色高马尾用红丝带系着，锐利杏仁眼。穿贴身红色和黑色武术服金色镶边，护臂，大腿上挂飞刀筒，轻便靴子。空中旋转踢腿，一腿伸出，手臂防御姿势，头发和丝带戏剧性飘动。站在黄昏时分中国古城的屋顶上，下方可见弧形瓦顶和纸灯笼。动态动作姿势，服装风效果。中国武侠动漫风格，温暖日落光线，四肢运动模糊。无文字，无水印。9:16竖版。",
+      "武侠女主，动作立绘",
+      "9:16"
+    ],
+    [
+      19,
+      "国风武侠",
+      "武侠女主",
+      "宫主立绘",
+      "Full body character illustration of a palace master in Chinese wuxia style. A regal woman in her early 30s with an authoritative beauty, elaborate updo hairstyle with golden hairpins and tassel ornaments, cold yet beautiful eyes. Wearing a luxurious layered silk dress in crimson and gold with phoenix embroidery, a jade pendant necklace, long flowing sleeves, golden slippers. Seated on an ornate wooden throne in an elegant pavilion, one hand resting on the armrest, the other holding a teacup. Cherry blossom petals falling through the open pavilion. Snow-capped mountains visible through lattice windows. Composed and commanding presence. Traditional Chinese painting meets anime aesthetic, rich warm colors, soft natural light. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国武侠风格的宫主。30岁初威严美貌女子，精致发髻配金簪和流苏饰品，冷艳美丽的眼睛。身穿奢华多层丝绸裙，深红和金色凤凰刺绣，玉佩项链，飘逸长袖，金色拖鞋。坐在精致木椅上，一手搭扶手，另一手持茶杯。樱花花瓣穿过开放式亭子飘落。透过花格窗可见雪山。沉着威严的气场。中国传统绘画融合动漫美学，丰富暖色调，柔和自然光。无文字，无水印。9:16竖版。",
+      "宫主/掌门女性角色",
+      "9:16"
+    ],
+    [
+      20,
+      "国风武侠",
+      "古风配角",
+      "掌门立绘",
+      "Full body character illustration of a sect leader in Chinese wuxia style. An elderly man around 70 with a long white beard, wise and stern face, thick eyebrows over penetrating eyes. Wearing a dark gray traditional changshan with a black sash, a round symbol of his sect embroidered on the back in white. Standing at the front of a martial arts training ground, wooden training dummies and weapon racks visible behind him, disciples practicing in the blurred background. One hand behind his back, the other holding a simple wooden staff. Authoritative and dignified posture. Chinese wuxia illustration, muted color palette, overcast natural lighting, ink-wash texture. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国武侠风格的掌门。70岁左右老者，白色长须，智慧严厉的面容，浓眉下锐利的眼睛。穿深灰色传统长衫黑色腰带，背部白色绣有宗门圆形标志。站在武术训练场前方，身后可见木桩和兵器架，背景模糊的弟子在练武。一手背后，另一手持朴素木杖。权威威严的姿态。中国武侠插画，柔和色调，阴天自然光，水墨纹理。无文字，无水印。9:16竖版。",
+      "掌门/宗师角色",
+      "9:16"
+    ],
+    [
+      21,
+      "国风武侠",
+      "古风配角",
+      "书生立绘",
+      "Full body character illustration of a scholar in Chinese period style. A young man around 20 with a gentle refined face, black hair in a neat topknot secured with a simple wooden hairpin, soft thoughtful eyes behind round glasses. Wearing a light blue traditional scholar's robe (changshan) with subtle bamboo patterns, carrying a woven bamboo book box on his back, holding a folded paper fan. Walking along a misty path beside a lotus pond in a classical Chinese garden, stone bridge and willow tree in the background. Gentle breeze rustling his robes. Peaceful and contemplative mood. Chinese classical illustration, soft watercolor palette, diffused natural light, serene atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国古典风格的书生。20岁左右温文尔雅的年轻男子，黑发整齐发髻用简单木簪固定，圆眼镜后柔和深思的眼睛。穿浅蓝色传统书生长衫，微妙的竹纹图案，背着竹编书箱，手持折扇。走在古典中国花园雾蒙蒙的小径旁，荷花池，背景石桥和柳树。微风吹动衣袍。宁静沉思的情绪。中国古典插画，柔和水彩色调，漫射自然光，宁静氛围。无文字，无水印。9:16竖版。",
+      "书生/文人角色",
+      "9:16"
+    ],
+    [
+      22,
+      "国风武侠",
+      "武器立绘",
+      "古剑立绘",
+      "Create a detailed illustration of a Chinese jian (straight sword) in wuxia style. An elegant sword with a bronze guard shaped like overlapping cloud patterns, a wrapped dark blue silk grip with a red tassel, and a polished steel blade with a subtle hamon-like temper line. The sword stands vertically embedded in a stone, cherry blossom petals falling around it, mist swirling at the base. Ancient calligraphy engraved on the blade visible in close-up detail. Dark moody background with mountain silhouettes. Chinese wuxia weapon art, dramatic side lighting, atmospheric depth of field. No text, no watermark. 9:16 vertical format.",
+      "创建一张武侠风格中国剑（直剑）的精细插图。优雅的剑，青铜护手呈叠云纹，深蓝丝绸缠绕剑柄配红色流苏，抛光钢刃带微妙的类似刃纹的淬火线。剑竖直插在石头中，樱花花瓣飘落周围，底部雾气旋绕。剑身刻有古代书法，近景细节可见。暗色情绪背景配山峦剪影。中国武侠武器艺术，戏剧性侧光，大气景深。无文字，无水印。9:16竖版。",
+      "武侠武器立绘",
+      "9:16"
+    ],
+    [
+      23,
+      "国风武侠",
+      "武器立绘",
+      "折扇立绘",
+      "Create a detailed illustration of a Chinese folding fan (zhe shan) in wuxia style. An exquisite fan made of dark sandalwood ribs with jade end-pieces, the paper surface painted with an ink-wash landscape of mountains and rivers in the style of a classical Chinese painting. The fan is half-open at a dynamic angle, as if being snapped shut for combat. Steel blades hidden between the outer ribs visible as thin glinting lines. Scattered ink drops and a calligraphy brush beside it on a dark wooden desk. Dramatic spotlight lighting, shallow depth of field. Chinese wuxia weapon art, elegant and deadly aesthetic. No text, no watermark. 9:16 vertical format.",
+      "创建一张武侠风格中国折扇的精细插图。精美的扇子，深檀香木扇骨配玉端，纸面绘有中国古典画风格的水墨山水。扇半开呈动态角度，如战斗中即将合拢。外扇骨间隐藏的钢刃可见为纤细闪光线条。散落墨滴和毛笔在旁的深色木桌上。戏剧性聚光灯光，浅景深。中国武侠武器艺术，优雅而致命的美学。无文字，无水印。9:16竖版。",
+      "折扇武器立绘",
+      "9:16"
+    ],
+    [
+      "📁 二次元/动漫",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      24,
+      "二次元/动漫",
+      "校园角色",
+      "女高中生立绘",
+      "Full body anime character illustration of a Japanese high school girl. A cute girl around 16 with a cheerful expression, large sparkling brown eyes, short chestnut-brown hair with a small red ribbon hairclip. Wearing a Japanese school uniform: white short-sleeve blouse, navy blue pleated skirt, red bow tie, white knee-high socks, brown loafers. Carrying a school bag on one shoulder, holding a phone in one hand. Standing in front of a cherry blossom tree in full bloom at a school gate, petals falling around her. Bright and cheerful spring atmosphere. Japanese anime art style, clean lines, vibrant colors, soft natural lighting. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，日本女高中生。16岁左右可爱女孩，开朗表情，大而闪亮的棕色眼睛，栗棕色短发配小红蝴蝶结发夹。穿日本校服：白色短袖衬衫，海军蓝百褶裙，红色蝴蝶结领带，白色及膝袜，棕色乐福鞋。肩挎书包，一手拿手机。站在盛开的樱花树前的校门口，花瓣飘落。明亮欢快的春日氛围。日本动漫艺术风格，干净线条，鲜艳色彩，柔和自然光。无文字，无水印。9:16竖版。",
+      "校园动漫角色，日常系",
+      "9:16"
+    ],
+    [
+      25,
+      "二次元/动漫",
+      "校园角色",
+      "男高中生立绘",
+      "Full body anime character illustration of a Japanese high school boy. A cool-looking boy around 17 with messy dark hair, one eye covered by bangs, sharp grey eyes. Wearing a Japanese school uniform: white long-sleeve shirt with rolled-up sleeves, black pants, loose tie, black sneakers. Leaning against a wall with one hand in pocket, earbuds visible, looking slightly away with a cool expression. After-school golden hour lighting, school building and bicycle in the blurred background. Japanese anime art style, clean lineart, warm color palette, slice-of-life mood. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，日本男高中生。17岁左右酷感男孩，凌乱深色头发，刘海遮一只眼，锐利灰色眼睛。穿日本校服：白色长袖衬衫卷袖，黑色长裤，松散领带，黑色运动鞋。靠墙站立一手插兜，可见耳机，微微侧视酷酷的表情。放学后黄金时刻光线，背景模糊的校舍和自行车。日本动漫艺术风格，干净线稿，温暖色调，日常氛围。无文字，无水印。9:16竖版。",
+      "校园动漫角色，酷感男",
+      "9:16"
+    ],
+    [
+      26,
+      "二次元/动漫",
+      "奇幻角色",
+      "魔法少女立绘",
+      "Full body anime character illustration of a magical girl. A young girl around 14 with an innocent determined face, large sparkling pink eyes, long twin-tail blonde hair with star-shaped accessories. Wearing a frilly magical girl outfit in pink, white and gold with a star motif, a compact magical wand with a glowing star tip, translucent butterfly wings on her back, knee-high boots with ribbons. Floating in a magical transformation pose with sparkles and ribbons of light spiraling around her, a crescent moon in the background. Magical girl anime style, vibrant saturated colors, dynamic pose, sparkle effects, dreamy background. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，魔法少女。14岁左右天真坚定的女孩，大而闪亮的粉色眼睛，金色双马尾配星形饰品。穿荷叶边魔法少女服装，粉色白色和金色星形主题，持发光星尖的魔法棒，背上半透明蝴蝶翅膀，及膝靴配丝带。漂浮在魔法变身姿势中，星光和光带螺旋环绕，背景新月。魔法少女动漫风格，鲜艳饱和色彩，动态姿势，闪光效果，梦幻背景。无文字，无水印。9:16竖版。",
+      "魔法少女，变身系",
+      "9:16"
+    ],
+    [
+      27,
+      "二次元/动漫",
+      "奇幻角色",
+      "精灵弓手立绘",
+      "Full body anime character illustration of an elven archer. A slender elf woman with pointed ears, long silver hair braided on one side, emerald green eyes with slit pupils. Wearing lightweight forest-green leather armor with leaf motifs, a short cape, brown fingerless gloves, thigh quiver with feathered arrows, tall brown boots. Drawing a longbow in a dynamic archery stance, the arrow nocked and glowing with green nature magic. Standing in an enchanted forest with bioluminescent plants and ancient trees, fireflies and magical particles in the air. Fantasy anime art style, detailed fantasy costume, dappled forest lighting, magical atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，精灵弓手。纤细精灵女性，尖耳，银色长发一侧编辫，翠绿色竖瞳眼睛。穿轻便森林绿皮甲配叶纹，短披风，棕色露指手套，大腿箭筒配羽箭，高筒棕靴。动态射箭姿势拉弓，箭搭弦上散发绿色自然魔法光芒。站在魔法森林中，生物发光植物和古树，空气中萤火虫和魔法粒子。奇幻动漫艺术风格，精细奇幻服装，斑驳森林光线，魔法氛围。无文字，无水印。9:16竖版。",
+      "精灵弓手，奇幻RPG角色",
+      "9:16"
+    ],
+    [
+      28,
+      "二次元/动漫",
+      "机甲角色",
+      "机甲驾驶员立绘",
+      "Full body anime character illustration of a mecha pilot. A young man around 18 with a confident smirk, messy dark hair, sharp blue eyes. Wearing a form-fitting pilot plugsuit in white and blue with glowing circuit lines, a neural interface headset, pilot harness straps across the chest. Standing in a mecha cockpit hangar with a massive humanoid robot visible behind him, technicians and equipment in the blurred background. One hand adjusting his headset, the other holding a data tablet. Cool blue and white lighting from the mecha, industrial sci-fi atmosphere. Mecha anime art style, clean technical design, dramatic lighting. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，机甲驾驶员。18岁左右自信微笑的青年，凌乱深色头发，锐利蓝色眼睛。穿贴身驾驶服白色和蓝色发光电路线，神经接口耳机，胸前驾驶安全带。站在机甲库中，身后可见巨大人形机器人，背景模糊的技术人员和设备。一手调耳机，另一手持数据平板。机甲冷蓝白色光，工业科幻氛围。机甲动漫艺术风格，干净技术设计，戏剧性光线。无文字，无水印。9:16竖版。",
+      "机甲驾驶员，科幻动漫",
+      "9:16"
+    ],
+    [
+      29,
+      "二次元/动漫",
+      "机甲角色",
+      "女机械师立绘",
+      "Full body anime character illustration of a female mechanic. A young woman around 20 with oil smudges on her cheek, messy brown hair in a short ponytail, bright curious eyes. Wearing a cropped orange jumpsuit with the top tied around her waist, a white tank top, work gloves, tool belt with wrenches and screwdrivers, heavy boots. Holding a large wrench over one shoulder, grinning confidently. Standing in a cluttered workshop with robot parts, blueprints, and tools scattered around, sparks flying from a welding project in the background. Warm industrial lighting, lively and energetic mood. Anime slice-of-life art style, detailed mechanical elements. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，女机械师。20岁左右脸颊油污的年轻女子，凌乱棕色短发马尾，明亮好奇的眼睛。穿橙色工装裤上衣系腰间，白色背心，工作手套，工具带配扳手螺丝刀，重靴。肩扛大扳手，自信微笑。站在杂乱的工作室中，周围散落机器人零件、蓝图和工具，背景焊接项目火花飞溅。温暖工业光线，活泼充满能量的情绪。动漫日常系艺术风格，精细机械元素。无文字，无水印。9:16竖版。",
+      "机械师/工程师角色",
+      "9:16"
+    ],
+    [
+      30,
+      "二次元/动漫",
+      "日常角色",
+      "咖啡师立绘",
+      "Full body anime character illustration of a barista. A warm and gentle young man around 23 with a friendly smile, neatly combed dark brown hair, warm brown eyes behind round glasses. Wearing a white dress shirt with rolled sleeves, a dark green apron with a coffee bean logo, black trousers. Holding a portafilter in one hand and a latte art cup in the other, steam rising. Standing behind a polished wooden bar counter with an espresso machine, coffee beans, and pastry display. Warm cozy cafe interior with pendant lights and plants in the background. Soft warm lighting, inviting atmosphere. Anime slice-of-life art style, detailed cafe elements. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，咖啡师。23岁左右温暖温柔的年轻男子，友善微笑，整齐梳理的深棕色头发，圆眼镜后温暖的棕色眼睛。穿白色衬衫卷袖，深绿色围裙配咖啡豆标志，黑色长裤。一手持手柄，另一手端拉花杯，蒸汽升起。站在抛光木质吧台后，意式咖啡机、咖啡豆和糕点展示。温暖舒适咖啡馆内部，背景吊灯和植物。柔和温暖光线，诱人氛围。动漫日常系艺术风格，精细咖啡馆元素。无文字，无水印。9:16竖版。",
+      "咖啡师/日常角色",
+      "9:16"
+    ],
+    [
+      31,
+      "二次元/动漫",
+      "日常角色",
+      "画家立绘",
+      "Full body anime character illustration of an artist. A creative young woman around 22 with paint smudges on her nose and fingers, wavy auburn hair in a messy bun with paintbrushes stuck through it, expressive green eyes. Wearing an oversized paint-stained white shirt, denim overalls with one strap undone, bare feet. Holding a palette in one hand and a brush in the other, standing before a large canvas on an easel showing a half-finished landscape painting. An art studio filled with paintings, supplies, and natural light from a large window. Colorful and bohemian atmosphere. Anime art style, warm natural lighting, creative energy. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，画家。22岁左右创意年轻女子，鼻尖和手指上有颜料污渍，波浪赤褐色头发凌乱发髻插着画笔，富有表现力的绿色眼睛。穿超大号沾满颜料的白衬衫，牛仔背带裤一条带子解开，赤脚。一手持调色板一手持画笔，站在画架上的大画布前展示半完成风景画。充满画作和用品的画室，大窗户自然光。色彩丰富波西米亚氛围。动漫艺术风格，温暖自然光，创意能量。无文字，无水印。9:16竖版。",
+      "画家/艺术家角色",
+      "9:16"
+    ],
+    [
+      32,
+      "二次元/动漫",
+      "恶役/反派",
+      "魔王立绘",
+      "Full body anime character illustration of a demon lord. A towering imposing figure with pale skin, long white hair, crimson eyes with slit pupils, two curved black horns. Wearing elaborate black and crimson armor with spiked shoulders, a flowing dark cape, a massive sword with a glowing red blade. Seated on a throne of obsidian in a dark castle, red carpet leading to the throne, lightning illuminating stained glass windows. Arms resting on throne armrests, legs crossed, a commanding and amused expression. Dark fantasy anime style, high contrast red and black palette, dramatic lightning illumination, imposing scale. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，魔王。高大威严的身影，苍白皮肤，白色长发，红色竖瞳眼睛，两只弯曲黑色犄角。穿精致黑色和深红色铠甲配尖刺肩甲，飘逸深色披风，巨大红刃发光剑。坐在黑曜石王座上，红地毯通向王座，闪电照亮彩色玻璃窗。手臂搭扶手，双腿交叉，命令而玩味的表情。暗黑奇幻动漫风格，高对比度红黑色调，戏剧性闪电照明，威严尺度。无文字，无水印。9:16竖版。",
+      "魔王/反派BOSS角色",
+      "9:16"
+    ],
+    [
+      33,
+      "二次元/动漫",
+      "恶役/反派",
+      "暗影刺客立绘",
+      "Full body anime character illustration of a shadow assassin. A lean and agile figure completely wrapped in dark cloth, only the lower half of the face visible showing a cold smirk, glowing purple eyes. Wearing form-fitting black ninja-style outfit with dark purple accents, multiple hidden blades and kunai strapped to the body, a hood covering the head. Crouching on a rooftop ledge at night, city lights blurred far below, a full moon behind creating a dramatic silhouette. One hand holding a curved dagger, the other extended with fingers forming a shadow claw that extends into dark tendrils. Stealthy and deadly presence. Dark anime art style, high contrast moonlight, shadow effects. No text, no watermark. 9:16 vertical format.",
+      "全身动漫角色立绘，暗影刺客。瘦削敏捷的身影完全包裹在深色布料中，仅露出下半张脸冷笑，发光的紫色眼睛。穿贴身黑色忍者风服装配深紫色点缀，身上绑着多把隐藏刀和苦无，兜帽遮头。蹲在夜晚屋顶边缘，远处模糊的城市灯光，身后满月创造戏剧性剪影。一手持弯刀，另一手伸出手指形成延伸为暗色卷须的暗影爪。隐秘致命的气场。暗色动漫艺术风格，高对比度月光，阴影效果。无文字，无水印。9:16竖版。",
+      "刺客/忍者角色",
+      "9:16"
+    ],
+    [
+      "📁 游戏CG/写实",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      34,
+      "游戏CG/写实",
+      "RPG战士",
+      "圣骑士立绘",
+      "Full body character illustration of a paladin in Western fantasy RPG game CG style. A muscular man in his 30s with a square jaw, short cropped brown hair, stern blue eyes, a small scar across his left cheek. Wearing full plate armor in polished silver and gold with a lion crest on the chest plate, a white tabard with a golden sun symbol, a large heater shield with the same sun emblem, and a broadsword sheathed on his back. Standing in a cathedral interior with stained glass windows casting colored light, stone pillars visible. Right hand resting on the pommel of his sword, left hand holding the shield at his side. Noble and righteous presence. Realistic game CG art style, detailed metal reflections, volumetric colored light from windows, 8K quality. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的圣骑士。30岁左右肌肉发达男子，方形下颌，短棕色短发，严厉蓝色眼睛，左颊小疤痕。穿全身板甲，抛光银色和金色，胸板狮子纹章，白色罩袍金色太阳符号，大 heater 盾同太阳纹章，背后剑鞘中宽剑。站在大教堂内部，彩色玻璃窗投射彩色光线，可见石柱。右手搭剑柄，左手持盾于身侧。高贵正义的气场。写实游戏CG艺术风格，精细金属反射，窗户体积彩色光，8K品质。无文字，无水印。9:16竖版。",
+      "圣骑士，RPG坦克角色",
+      "9:16"
+    ],
+    [
+      35,
+      "游戏CG/写实",
+      "RPG战士",
+      "狂战士立绘",
+      "Full body character illustration of a berserker in Western fantasy RPG game CG style. A massive warrior with a muscular build, wild red beard, battle-scarred face, bloodshot eyes. Wearing heavy iron armor with fur trim on the shoulders, leather bracers, a chainmail kilt, heavy boots. Wielding a gigantic double-headed battle axe dripping with blood, the axe nearly as tall as a person. Standing on a blood-stained battlefield with fallen weapons and banners, dark storm clouds overhead, lightning illuminating the scene. Roaring battle cry pose, muscles tensed, veins bulging. Dark fantasy game CG style, gritty realistic textures, dramatic storm lighting, visceral atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的狂战士。巨大战士，肌肉发达，狂野红胡须，战斗伤疤脸，充血眼睛。穿重型铁甲肩部毛皮边，皮护臂，锁子甲短裙，重靴。挥舞一把几乎与人等高的巨大双头战斧，滴着血。站在血染的战场上，倒下的武器和旗帜，头顶暗暴风云，闪电照亮场景。咆哮战吼姿势，肌肉紧绷，血管隆起。暗黑奇幻游戏CG风格，粗粝写实纹理，戏剧性暴风雨光线，血腥氛围。无文字，无水印。9:16竖版。",
+      "狂战士，近战DPS角色",
+      "9:16"
+    ],
+    [
+      36,
+      "游戏CG/写实",
+      "法师/牧师",
+      "元素法师立绘",
+      "Full body character illustration of an elementalist mage in Western fantasy RPG game CG style. A mysterious woman in her late 20s with pale skin, long white hair with blue tips, glowing cyan eyes. Wearing elegant dark blue robes with silver constellation embroidery, a pointed wizard hat, a staff topped with a glowing blue crystal orb. Both hands raised casting a spell, swirling elements of fire (left hand, orange-red) and ice (right hand, blue-white) spiraling around her. Standing in a magical library with floating books and glowing runes on the walls. Powerful and mystical presence. Realistic game CG art style, detailed spell effects, dramatic magical lighting, particle effects. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的元素法师。28岁左右神秘女子，苍白皮肤，白色长发蓝色发梢，发光的青色眼睛。穿优雅深蓝色长袍银色星座刺绣，尖顶巫师帽，顶端镶嵌发光蓝色水晶球的法杖。双手举起施法，火元素（左手橙红）和冰元素（右手蓝白）螺旋环绕。站在魔法图书馆中，漂浮的书和墙上发光符文。强大神秘的气场。写实游戏CG艺术风格，精细法术效果，戏剧性魔法光线，粒子效果。无文字，无水印。9:16竖版。",
+      "元素法师，远程DPS角色",
+      "9:16"
+    ],
+    [
+      37,
+      "游戏CG/写实",
+      "法师/牧师",
+      "牧师立绘",
+      "Full body character illustration of a holy priest in Western fantasy RPG game CG style. A gentle middle-aged woman with kind features, brown hair in a bun, soft hazel eyes. Wearing white and gold ceremonial robes with a sunburst symbol, a golden halo floating above her head, a holy book clutched to her chest with both hands. Emitting a warm golden healing aura, golden light particles rising from the ground around her. Kneeling in a battlefield treating a wounded soldier, the scene transitioning from dark and grim to warm and hopeful around her. Compassionate and divine presence. Realistic game CG art style, dramatic light-dark contrast, volumetric golden light, emotional atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的牧师。中年温柔女子，善良面容，棕色发髻，柔和淡褐色眼睛。穿白色和金色仪式长袍太阳爆发符号，头顶漂浮金色光环，双手胸前紧抱圣书。散发温暖金色治愈光环，金色光粒子从周围地面升起。跪在战场上治疗受伤士兵，场景从黑暗阴沉过渡到温暖充满希望。慈悲神圣的气场。写实游戏CG艺术风格，戏剧性明暗对比，体积金色光，情感氛围。无文字，无水印。9:16竖版。",
+      "牧师/治疗角色",
+      "9:16"
+    ],
+    [
+      38,
+      "游戏CG/写实",
+      "弓手/刺客",
+      "精灵弓手CG立绘",
+      "Full body character illustration of an elven ranger in Western fantasy RPG game CG style. A lean athletic elf with sharp features, pointed ears, long braided blonde hair, piercing green eyes. Wearing practical forest-green leather armor with elven leaf motifs, a short hooded cloak, bracers with a bowstring mechanism, thigh quiver. Drawing a long elegant bow carved with vine patterns, the arrow glowing with golden light. Standing in an ancient forest with massive trees and shafts of sunlight piercing the canopy. Alert hunter stance, one foot forward. Realistic game CG art style, detailed leather and metal textures, dappled forest lighting, cinematic depth of field. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的精灵游侠。瘦削运动型精灵，锐利面容，尖耳，长编辫金发，锐利绿色眼睛。穿实用森林绿皮甲精灵叶纹，短连帽斗篷，带弓弦装置的护臂，大腿箭筒。拉一把雕刻藤蔓图案的优雅长弓，箭散发金色光芒。站在古老森林中，巨树和阳光穿透树冠。警觉猎人姿势，一脚前倾。写实游戏CG艺术风格，精细皮革和金属纹理，斑驳森林光线，电影景深。无文字，无水印。9:16竖版。",
+      "精灵游侠，远程物理角色",
+      "9:16"
+    ],
+    [
+      39,
+      "游戏CG/写实",
+      "弓手/刺客",
+      "暗夜刺客CG立绘",
+      "Full body character illustration of a night blade assassin in Western fantasy RPG game CG style. A wiry and agile figure in full black leather armor with dark metal gauntlets, a hood and mask covering the entire face with only glowing green eyes visible. Dual-wielding curved daggers with poison-green glowing edges. Crouching on a stone parapet at night, a medieval castle courtyard visible below with patrolling guards. Shadows wrapping around the figure creating a stealth effect. Coiled spring tension in the body, ready to strike. Dark realistic game CG style, high contrast moonlight, shadow manipulation effects, gritty textures. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的暗夜刺客。瘦削敏捷身影，全身黑色皮甲深色金属护手，兜帽和面具完全遮面仅可见发光绿色眼睛。双持弯刀，刀刃散发毒绿色光芒。蹲在夜晚石城垛上，下方可见中世纪城堡庭院巡逻守卫。阴影包裹身影创造隐身效果。身体如盘绕弹簧蓄势待发。暗色写实游戏CG风格，高对比度月光，阴影操控效果，粗粝纹理。无文字，无水印。9:16竖版。",
+      "刺客，潜行DPS角色",
+      "9:16"
+    ],
+    [
+      40,
+      "游戏CG/写实",
+      "NPC角色",
+      "铁匠NPC立绘",
+      "Full body character illustration of a blacksmith NPC in Western fantasy RPG game CG style. A burly man around 45 with thick arms, soot-stained face, bald head with a thick beard, warm brown eyes. Wearing a heavy leather apron over a bare muscular torso, thick gloves, soot-covered boots. Holding a pair of tongs gripping a glowing orange piece of iron on an anvil, a hammer in the other hand raised mid-strike. Standing in a forge interior with glowing embers, hanging tools, weapons on racks, and smoke rising. Dynamic forging pose, sweat and soot details. Warm orange forge lighting contrasting with cool shadows. Realistic game CG art style, detailed workshop environment, cinematic lighting. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的铁匠NPC。45岁左右粗壮男子，粗壮手臂，烟灰脸，光头浓密胡须，温暖棕色眼睛。穿重皮围裙裸露肌肉上身，厚手套，烟灰靴。一手持钳夹住砧上发光橙色铁块，另一手举锤半击。站在铁匠铺内部，发光余烬，悬挂工具，架上武器，烟雾升起。动态锻造姿势，汗水和烟灰细节。温暖橙色锻造光对比冷阴影。写实游戏CG艺术风格，精细工作坊环境，电影光线。无文字，无水印。9:16竖版。",
+      "铁匠NPC，游戏角色",
+      "9:16"
+    ],
+    [
+      41,
+      "游戏CG/写实",
+      "NPC角色",
+      "酒馆老板NPC立绘",
+      "Full body character illustration of a tavern keeper NPC in Western fantasy RPG game CG style. A portly cheerful man around 50 with a round red face, thinning grey hair, a twirled mustache, merry eyes. Wearing a white shirt with rolled sleeves, a brown vest, a stained apron, wiping a beer mug with a cloth. Standing behind a worn wooden bar counter with ale barrels, hanging dried herbs and meat, and lit candles. A warm tavern interior with wooden beams, a stone fireplace, and a few patrons visible in the blurred background. Welcoming and jovial expression. Warm candlelit atmosphere. Realistic game CG art style, detailed tavern environment, cozy interior lighting. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的酒馆老板NPC。50岁左右肥胖开朗男子，圆红脸，稀疏灰发，翘八字胡，快活眼睛。穿白色衬衫卷袖，棕色马甲，污渍围裙，用布擦啤酒杯。站在磨损的木质吧台后，啤酒桶，悬挂干草药和肉，点燃的蜡烛。温暖酒馆内部，木梁，石壁炉，背景模糊可见几位顾客。欢迎快活的表情。温暖烛光氛围。写实游戏CG艺术风格，精细酒馆环境，舒适室内光线。无文字，无水印。9:16竖版。",
+      "酒馆老板NPC，游戏角色",
+      "9:16"
+    ],
+    [
+      42,
+      "游戏CG/写实",
+      "BOSS角色",
+      "龙骑士BOSS立绘",
+      "Full body character illustration of a dragon knight boss in Western fantasy RPG game CG style. An imposing armored figure in massive black dragon-scale armor with glowing red rune lines, a horned helmet with a visor revealing burning orange eyes. Riding a massive red dragon perched on a volcanic cliff, the dragon's wings spread wide, mouth open breathing fire. The knight holding a massive lance wreathed in flames. Dark volcanic sky with ash and embers floating, lava visible far below. Epic boss encounter composition, overwhelming power and scale. Dark fantasy game CG art style, ultra-detailed armor and dragon scales, dramatic fire lighting, 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的龙骑士BOSS。威严的穿甲身影，巨大黑色龙鳞甲配发光红色符文线，角盔面罩露出燃烧橙色眼睛。骑在火山悬崖上的巨大红龙，龙翼展开，张口喷火。骑士手持缠绕火焰的巨大长枪。暗色火山天空飘浮灰烬和余火，远处可见熔岩。史诗BOSS遭遇构图，压倒性的力量和尺度。暗黑奇幻游戏CG艺术风格，超精细铠甲和龙鳞，戏剧性火焰光线，9:16竖版。",
+      "龙骑士BOSS，史诗级角色",
+      "9:16"
+    ],
+    [
+      43,
+      "游戏CG/写实",
+      "BOSS角色",
+      "亡灵领主BOSS立绘",
+      "Full body character illustration of a lich lord boss in Western fantasy RPG game CG style. A skeletal figure draped in tattered dark purple royal robes, a glowing blue crystal embedded in the skull where the third eye would be, bony hands holding a staff topped with a screaming soul. Floating above a battlefield of undead soldiers, dark necromantic energy swirling below, ghostly chains hanging from tattered sleeves. An army of skeletons marching in the misty background. Terrifying and powerful undead presence. Dark fantasy game CG style, eerie blue and purple lighting, spectral effects, detailed bone and cloth textures. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，西方奇幻RPG游戏CG风格的亡灵领主BOSS。骷髅身影披着破烂深紫色王袍，颅骨第三眼位置嵌入发光蓝色水晶，骨手持顶端尖叫灵魂的法杖。悬浮在亡灵士兵战场上方，下方旋转暗黑死灵能量，破烂袖口悬挂幽灵锁链。雾中背景骷髅军队行军。恐怖强大的亡灵气场。暗黑奇幻游戏CG风格，诡异蓝紫光线，幽灵效果，精细骨骼和布料纹理。无文字，无水印。9:16竖版。",
+      "亡灵领主BOSS，死灵法师",
+      "9:16"
+    ],
+    [
+      "📁 Q版/可爱",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      44,
+      "Q版/可爱",
+      "Q版修仙",
+      "Q版小道士立绘",
+      "Chibi character illustration of a cute little Daoist cultivator. A small round-faced child around 8 years old with big sparkling eyes, rosy cheeks, messy black hair in two small buns. Wearing an oversized white daoist robe that's too big for him, the sleeves dragging on the ground, a small wooden sword strapped to his back. Floating on a tiny cloud, one hand making a cute Daoist hand seal, the other holding a glowing spirit pill. Surrounded by tiny floating talismans and sparkles. Adorable and determined expression. Chibi anime style, soft pastel colors, simple clean design, white background. No text, no watermark. 1:1 square format.",
+      "Q版角色立绘，可爱的小道士修仙者。8岁左右圆脸小孩，大闪亮眼睛，红润脸颊，凌乱黑头发扎两个小发髻。穿对他来说太大的白色道袍，袖子拖地，背后绑着一把小木剑。漂浮在小云朵上，一手结可爱的道印，另一手持发光灵丹。周围漂浮小符咒和闪光。可爱而坚定的表情。Q版动漫风格，柔和马卡龙色，简洁干净设计，白色背景。无文字，无水印。1:1正方形。",
+      "Q版修仙角色，萌系",
+      "1:1"
+    ],
+    [
+      45,
+      "Q版/可爱",
+      "Q版修仙",
+      "Q版仙子立绘",
+      "Chibi character illustration of a cute little fairy maiden. A tiny girl with big sparkling violet eyes, silver-white hair in twin tails with star ornaments, wearing a miniature celestial silk dress in white and lavender with oversized ribbon bow on the back. Sitting on a giant crescent moon, dangling her little feet, holding a tiny lotus lantern that glows warmly. Surrounded by floating flower petals and tiny stars. Sweet and dreamy expression. Chibi kawaii style, soft pink and lavender palette, simple clean design, white background. No text, no watermark. 1:1 square format.",
+      "Q版角色立绘，可爱的小仙子。小小女孩，大闪亮紫色眼睛，银白色双马尾配星形饰品，穿迷你天丝仙裙白色和薰衣草色，背后超大蝴蝶结丝带。坐在巨大的新月上，晃着小脚，持温暖发光的小莲花灯。周围漂浮花瓣和小星星。甜美梦幻的表情。Q版卡哇伊风格，柔和粉色和薰衣草色调，简洁干净设计，白色背景。无文字，无水印。1:1正方形。",
+      "Q版仙子，萌系可爱",
+      "1:1"
+    ],
+    [
+      46,
+      "Q版/可爱",
+      "Q版冒险",
+      "Q版勇者立绘",
+      "Chibi character illustration of a cute little hero adventurer. A small boy with big determined eyes, messy blonde hair under a tiny helmet, wearing oversized plate armor that looks too heavy for him, a tiny wooden shield on one arm, a small sword in the other hand. Standing in a heroic pose with one foot on a small rock, cape fluttering. A tiny slime monster cowering before him. Brave and adorable. Chibi RPG character style, bright saturated colors, simple clean design, white background. No text, no watermark. 1:1 square format.",
+      "Q版角色立绘，可爱的小勇者冒险家。小男孩，大而坚定的眼睛，小头盔下凌乱金发，穿对他来说太重的超大板甲，一臂小木盾，另一手小剑。英雄姿势一脚踩小石头，披风飘动。面前一只小史莱姆怪物在发抖。勇敢又可爱。Q版RPG角色风格，明亮饱和色彩，简洁干净设计，白色背景。无文字，无水印。1:1正方形。",
+      "Q版勇者，RPG冒险",
+      "1:1"
+    ],
+    [
+      47,
+      "Q版/可爱",
+      "Q版冒险",
+      "Q版法师立绘",
+      "Chibi character illustration of a cute little mage. A small girl with big curious eyes behind oversized round glasses, purple hair in a messy bun with a tiny wizard hat that's too big, wearing a dark blue robe that drags on the floor. Both hands raised casting a tiny sparkly spell that looks like a miniature fireworks display. Accidentally singed her own bangs with a small puff of smoke. Clumsy and endearing expression. Chibi kawaii style, purple and gold palette, simple clean design, white background. No text, no watermark. 1:1 square format.",
+      "Q版角色立绘，可爱的小法师。小女孩，超大圆眼镜后大好奇眼睛，紫色头发凌乱发髻上戴太大的小巫师帽，穿拖地的深蓝色长袍。双手举起施法，小闪光法术像迷你烟花表演。不小心烧焦自己的刘海，一小缕烟。笨拙可爱的表情。Q版卡哇伊风格，紫金色调，简洁干净设计，白色背景。无文字，无水印。1:1正方形。",
+      "Q版法师，萌系可爱",
+      "1:1"
+    ],
+    [
+      48,
+      "Q版/可爱",
+      "Q版日常",
+      "Q版厨师立绘",
+      "Chibi character illustration of a cute little chef. A round-faced boy with a big smile, rosy cheeks, wearing a tall white chef's hat that's slightly tilted, a white chef's coat, and a tiny apron. Holding a large wooden spoon in one hand and a steaming pot in the other, the pot bubbling with a tiny heart-shaped steam cloud. Standing in a miniature kitchen with tiny utensils. Happy and proud expression. Chibi cooking character style, warm orange and white palette, simple clean design, white background. No text, no watermark. 1:1 square format.",
+      "Q版角色立绘，可爱的小厨师。圆脸男孩大微笑，红润脸颊，戴微歪的高白厨师帽，白厨师服和小围裙。一手持大木勺另一手端冒热气的锅，锅冒泡形成小心形蒸汽云。站在迷你厨房中小厨具旁。快乐自豪的表情。Q版烹饪角色风格，温暖橙白色调，简洁干净设计，白色背景。无文字，无水印。1:1正方形。",
+      "Q版厨师，美食萌系",
+      "1:1"
+    ],
+    [
+      49,
+      "Q版/可爱",
+      "Q版日常",
+      "Q版猫娘立绘",
+      "Chibi character illustration of a cute cat girl. A small girl with big sparkling golden cat eyes, short messy brown hair with cat ears poking out, a small cat tail swishing behind. Wearing a cozy oversized pink sweater and thigh-high socks. Sitting on the floor hugging a plush toy cat, a plate of cookies beside her, milk mustache on her face. Content and sleepy expression. Chibi kawaii anime style, warm pink and brown palette, simple clean design, white background. No text, no watermark. 1:1 square format.",
+      "Q版角色立绘，可爱的猫娘。小女孩，大闪亮金色猫眼，短凌乱棕色头发伸出猫耳，身后小猫尾摇摆。穿舒适超大粉色毛衣和及膝袜。坐在地板上抱毛绒玩具猫，旁边一盘饼干，脸上牛奶胡子。满足困倦的表情。Q版卡哇伊动漫风格，温暖粉棕色调，简洁干净设计，白色背景。无文字，无水印。1:1正方形。",
+      "Q版猫娘，萌系日常",
+      "1:1"
+    ],
+    [
+      50,
+      "Q版/可爱",
+      "Q版头像",
+      "Q版情侣头像",
+      "Chibi couple illustration for matching profile pictures. Left side: a cute boy with messy dark hair, wearing a blue hoodie, making a peace sign and winking. Right side: a cute girl with a ponytail, wearing a pink hoodie, holding a small heart and blushing. Both characters drawn in matching chibi style with big expressive eyes and round faces. A small red thread of fate connecting them between the frames. Sweet and romantic mood. Chibi kawaii style, clean pastel colors, simple design, white background, 1:1 square format.",
+      "Q版情侣插图，用于匹配头像。左侧：可爱男孩凌乱深色头发，穿蓝色卫衣，比V手势眨眼。右侧：可爱女孩马尾辫，穿粉色卫衣，持小爱心脸红。两个角色匹配Q版风格，大表情眼睛圆脸。两帧之间连接一条小红线（命运红线）。甜蜜浪漫情绪。Q版卡哇伊风格，干净马卡龙色，简洁设计，白色背景，1:1正方形。",
+      "Q版情侣头像，社交媒体",
+      "1:1"
+    ],
+    [
+      51,
+      "Q版/可爱",
+      "Q版头像",
+      "Q版冒险团队",
+      "Chibi adventure party illustration. Four chibi characters standing in a row: a tiny knight in oversized armor, a small mage girl with a big hat, a little archer boy with pointy ears, and a petite healer holding a staff. Each character has distinct colors and expressions. Standing before a miniature treasure chest with gold coins spilling out. Excited and adventurous mood. Chibi RPG party style, bright varied colors, simple clean design, white background. No text, no watermark. 16:9 horizontal format.",
+      "Q版冒险团队插图。四个Q版角色站成一排：穿超大铠甲的小骑士，大帽子的小法师女孩，尖耳朵的小弓手男孩，持法杖的娇小治疗师。每个角色有独特颜色和表情。站在迷你宝箱前金币溢出。兴奋冒险的情绪。Q版RPG团队风格，明亮多样色彩，简洁干净设计，白色背景。无文字，无水印。16:9横版。",
+      "Q版冒险团队，RPG组队",
+      "16:9"
+    ],
+    [
+      "📁 通用模板",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      52,
+      "通用模板",
+      "全身立绘",
+      "全身立绘通用模板",
+      "Full body character illustration of [CHARACTER DESCRIPTION]. [Gender], [age range], [facial features: face shape, eye color, hair style and color]. Wearing [clothing description with colors, materials, and details]. [Accessories: weapons, jewelry, tools]. [Pose description: standing/sitting/action]. [Background: environment, time of day, weather]. [Lighting: type, direction, mood]. [Style: anime/realistic/game CG/painting]. [Special effects: magic, aura, particles]. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，[角色描述]。[性别]，[年龄段]，[面部特征：脸型、眼色、发型发色]。穿着[服装描述含颜色、材质和细节]。[配饰：武器、首饰、工具]。[姿势描述：站立/坐姿/动作]。[背景：环境、时间、天气]。[光线：类型、方向、情绪]。[风格：动漫/写实/游戏CG/绘画]。[特效：魔法、气场、粒子]。无文字，无水印。9:16竖版。",
+      "万能全身立绘骨架模板，填空即用",
+      "9:16"
+    ],
+    [
+      53,
+      "通用模板",
+      "半身立绘",
+      "半身立绘通用模板",
+      "Half-body character portrait of [CHARACTER DESCRIPTION]. [Gender], [age range], [facial features: face shape, eye color, hair style and color, expression]. Wearing [clothing description focusing on upper body]. [Accessories visible in frame]. [Pose: looking at camera / three-quarter turn / profile]. [Background: simple or detailed environment]. [Lighting: type and mood]. [Style: anime/realistic/game CG]. [Special effects if any]. Clean composition focusing on face and upper body. No text, no watermark. 4:5 vertical format.",
+      "半身角色肖像，[角色描述]。[性别]，[年龄段]，[面部特征：脸型、眼色、发型发色、表情]。穿着[侧重上半身的服装描述]。[画面中可见的配饰]。[姿势：看镜头/四分之三转/侧面]。[背景：简洁或详细环境]。[光线：类型和情绪]。[风格：动漫/写实/游戏CG]。[特效如有]。干净构图聚焦面部和上半身。无文字，无水印。4:5竖版。",
+      "万能半身立绘骨架模板",
+      "4:5"
+    ],
+    [
+      54,
+      "通用模板",
+      "角色设定板",
+      "角色设定板通用模板",
+      "Character design sheet of [CHARACTER DESCRIPTION]. Multiple views on white background: front view (full body), side view (full body), back view (full body), three-quarter view (full body). Head close-ups: front, side, three-quarter showing different expressions (neutral, smile, angry, surprised). Detail callouts for: weapon/accessory, clothing pattern/texture, distinctive feature. Consistent proportions across all views. Clean line art with flat color fills. Concept art style, professional character sheet layout. No text labels on the drawing itself. White background. 16:9 horizontal format.",
+      "角色设定板，[角色描述]。白色背景多视图：正面（全身）、侧面（全身）、背面（全身）、四分之三面（全身）。头部特写：正面、侧面、四分之三面展示不同表情（中性、微笑、生气、惊讶）。细节标注：武器/配饰、服装图案/纹理、独特特征。所有视图比例一致。干净线稿配平面填色。概念艺术风格，专业角色设定板布局。画面本身无文字标签。白色背景。16:9横版。",
+      "角色设定板/转面图模板",
+      "16:9"
+    ],
+    [
+      55,
+      "通用模板",
+      "一致性技巧",
+      "角色一致性关键提示词",
+      "保持角色一致性的关键提示词要素：\n1. 固定面部描述：脸型、眼色、发型发色必须每次一致\n2. 固定服装描述：颜色、材质、款式每次一致\n3. 固定比例：身高体型每次一致\n4. 固定配饰：标志性物品每次出现\n5. 使用锚点词：'Keep the same face, same [服装], same proportions, same color palette'\n6. 避免模糊词：不用'beautiful'而用'oval face, almond eyes, button nose'\n7. 每次迭代只改一个变量\n8. 多角度设定板作为参考图输入\n9. 用'Preserve'和'Change'结构化编辑指令",
+      "Key prompt elements for character consistency:\n1. Fixed face description: face shape, eye color, hair style must be consistent every time\n2. Fixed clothing: colors, materials, style consistent every time\n3. Fixed proportions: height and body type consistent\n4. Fixed accessories: signature items appear every time\n5. Use anchor words: 'Keep the same face, same [outfit], same proportions, same color palette'\n6. Avoid vague words: use 'oval face, almond eyes, button nose' instead of 'beautiful'\n7. Change only one variable per iteration\n8. Multi-angle character sheet as reference image input\n9. Use 'Preserve' and 'Change' structured editing instructions",
+      "角色一致性核心技巧总结",
+      "自定义"
+    ],
+    [
+      "📁 重装机甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      56,
+      "重装机甲",
+      "突击型重装机甲",
+      "双持重炮重装机甲",
+      "Full body illustration of a heavy assault mecha in anime style. A massive bipedal war machine approximately 15 meters tall, heavily armored with thick angular plates in dark gunmetal gray and military olive drab. Equipped with dual shoulder-mounted railguns, a large rotary cannon on the right arm, and a reinforced shield on the left arm. The cockpit canopy is a narrow slit with red warning lights. Standing in a war-torn urban battlefield with destroyed buildings and smoke. Battle damage visible: scorch marks on chest plate, one shoulder armor partially destroyed. Imposing and intimidating presence. Mecha anime art style, detailed mechanical design, gritty military aesthetic, dramatic smoke and fire lighting. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的重型突击机甲。约15米高的巨大双足战争机器，厚重棱角装甲板深枪灰色和军橄榄色。装备双肩挂载电磁轨道炮，右臂大型旋转机炮，左臂加固盾牌。驾驶舱盖板是窄缝配红色警示灯。站在战损城市战场中，建筑废墟和烟雾。可见战损：胸板烧灼痕迹，一侧肩甲部分损毁。威压震慑气场。机甲动漫艺术风格，精细机械设计，粗粝军事美学，戏剧性烟雾和火焰光线。无文字，无水印。9:16竖版。",
+      "重装机甲，突击型主战单位",
+      "9:16"
+    ],
+    [
+      57,
+      "重装机甲",
+      "防御型重装机甲",
+      "移动堡垒重装机甲",
+      "Full body illustration of a mobile fortress mecha in anime style. A heavily armored bipedal mecha designed for defense, approximately 18 meters tall. Enormous tower shield on the left arm with integrated missile pods, thick reactive armor plates covering the entire body, a single heavy beam cannon on the right shoulder. The mecha has a bulky, wide stance suggesting immovability. Standing guard at a fortified position with barricades and sandbags, searchlights sweeping behind it. Snow falling, cold winter battlefield. Stoic and unyielding presence. Mecha anime art style, ultra-detailed armor plating, cold blue military lighting, atmospheric snow effects. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的移动堡垒机甲。约18米高的防御型双足机甲，全身覆盖厚重反应装甲板。左臂巨大塔盾集成导弹舱，右肩单发重型光束炮。机甲体型宽大站姿暗示不可移动性。站在有路障和沙袋的防御阵地，身后探照灯扫射。飘雪，寒冷冬季战场。坚毅不屈的气场。机甲动漫艺术风格，超精细装甲板，冷蓝军事光线，大气雪景效果。无文字，无水印。9:16竖版。",
+      "重装机甲，防御型堡垒单位",
+      "9:16"
+    ],
+    [
+      58,
+      "重装机甲",
+      "狙击型重装机甲",
+      "远程狙击重装机甲",
+      "Full body illustration of a long-range sniper mecha in anime style. A tall and slender bipedal mecha approximately 14 meters tall, designed for precision long-range combat. An extremely long anti-materiel rifle nearly as tall as the mecha itself, supported by a bipod deployed from the knee. Angular stealth-oriented armor panels in dark blue-gray with matte finish to reduce radar signature. Crouching on one knee on a cliff edge, targeting reticle HUD visible through the cockpit canopy. Desert environment, heat haze distorting the background. Patient and lethal presence. Mecha anime art style, detailed weapon mechanics, harsh desert sunlight, heat distortion effects. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的远程狙击机甲。约14米高的修长双足机甲，专为精确远程战斗设计。极长的反器材步枪几乎与机甲等高，膝盖展开的支架支撑。棱角隐身导向装甲板深蓝灰色哑光处理降低雷达特征。单膝跪在悬崖边缘，驾驶舱盖板可见瞄准十字准星HUD。沙漠环境，热浪扭曲背景。耐心致命的气场。机甲动漫艺术风格，精细武器机械，严酷沙漠阳光，热扭曲效果。无文字，无水印。9:16竖版。",
+      "重装机甲，远程狙击单位",
+      "9:16"
+    ],
+    [
+      59,
+      "重装机甲",
+      "格斗型重装机甲",
+      "近战格斗重装机甲",
+      "Full body illustration of a close-combat mecha in anime style. A heavily muscled humanoid mecha approximately 12 meters tall, designed for melee combat. Enormous thermal blade in the right hand glowing white-hot, a pile bunker (rocket-powered pile driver) mounted on the left arm, reinforced fist armor with spike knuckles. The mecha's frame is stocky with oversized arms and legs for maximum physical power. Mid-swing attack pose with the thermal blade arcing downward, shockwave effect on the ground. Standing in a destroyed city arena with debris flying. Ferocious and overwhelming presence. Mecha anime art style, dynamic action pose, intense heat glow effects, motion blur on the blade. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的近战格斗机甲。约12米高的肌肉发达人形机甲，专为近战设计。右手巨大热能刀发白热光芒，左臂安装打桩机（火箭驱动打桩器），加固拳甲配尖刺指节。机甲框架粗壮，手臂和腿部超大化追求最大物理力量。热能刀向下弧形挥砍的中途动作姿势，地面冲击波效果。站在被毁的城市竞技场中碎片飞溅。凶猛压倒性气场。机甲动漫艺术风格，动态动作姿势，强烈热发光效果，刀身运动模糊。无文字，无水印。9:16竖版。",
+      "重装机甲，近战格斗单位",
+      "9:16"
+    ],
+    [
+      "📁 轻装机甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      60,
+      "轻装机甲",
+      "侦察型轻装机甲",
+      "高速侦察轻装机甲",
+      "Full body illustration of a reconnaissance scout mecha in anime style. A sleek and agile bipedal mecha approximately 8 meters tall, designed for speed and reconnaissance. Slim aerodynamic frame with lightweight composite armor in white and light blue. Head unit features multiple sensor arrays and a long-range communication antenna. Armed with only a pair of submachine guns and a combat knife. Running at high speed across a grassy plain, motion blur on the legs, dust trail behind. Dynamic speed lines emphasizing velocity. Mecha anime art style, clean mechanical design, bright daylight, sense of speed and agility. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的侦察型轻装机甲。约8米高的流线敏捷双足机甲，专为速度和侦察设计。纤细空气动力学框架，轻量复合装甲白色和浅蓝色。头部单元配多传感器阵列和长距离通信天线。仅装备一对冲锋枪和一把战斗刀。高速奔跑穿过草地平原，腿部运动模糊，身后扬尘。动态速度线强调速度感。机甲动漫艺术风格，干净机械设计，明亮日光，速度和敏捷感。无文字，无水印。9:16竖版。",
+      "轻装机甲，高速侦察单位",
+      "9:16"
+    ],
+    [
+      61,
+      "轻装机甲",
+      "空战型轻装机甲",
+      "飞行空战轻装机甲",
+      "Full body illustration of an aerial combat mecha in anime style. A humanoid mecha approximately 9 meters tall with transformable wing structures on the back that can unfold into flight configuration. Sleek white and red armor with jet thrusters on the back and legs. Armed with beam rifles and micro-missile pods on the wing pylons. Flying through clouds at high altitude, leaving contrails, banking into a sharp turn. The wings partially deployed showing internal mechanical detail. Dynamic aerial combat pose. Mecha anime art style, detailed transformation mechanics, bright sky and cloud background, sense of freedom and power. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的飞行空战轻装机甲。约9米高的人形机甲，背部可变形翼结构可展开为飞行配置。流线型白色和红色装甲，背部和腿部喷气推进器。装备光束步枪和翼挂架微型导弹舱。高空穿越云层飞行，留下尾迹，急转弯倾斜。翼部部分展开展示内部机械细节。动态空战姿势。机甲动漫艺术风格，精细变形机械，明亮天空和云层背景，自由和力量感。无文字，无水印。9:16竖版。",
+      "轻装机甲，空中战斗单位",
+      "9:16"
+    ],
+    [
+      62,
+      "轻装机甲",
+      "潜入型轻装机甲",
+      "隐身潜入轻装机甲",
+      "Full body illustration of a stealth infiltration mecha in anime style. A compact bipedal mecha approximately 7 meters tall, designed for covert operations. Matte black armor with angular stealth geometry, minimal heat signature. Cloaking device partially active creating a shimmering distortion effect around the body. Equipped with a suppressed rifle and electronic warfare jammer on the shoulder. Crouching in the shadows of a military compound at night, red security lights sweeping nearby. Silent and deadly presence. Mecha anime art style, dark and stealthy aesthetic, dramatic night lighting with red and blue contrast, cloaking visual effect. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的隐身潜入轻装机甲。约7米高的紧凑双足机甲，专为秘密行动设计。哑光黑色装甲配棱角隐身几何形状，最低热信号。光学迷彩装置部分激活在身体周围创造闪烁扭曲效果。装备消音步枪和肩部电子战干扰器。夜间蹲在军事设施阴影中，附近红色安保灯扫射。沉默致命的气场。机甲动漫艺术风格，暗色隐身美学，戏剧性夜光红蓝对比，隐身视觉效果。无文字，无水印。9:16竖版。",
+      "轻装机甲，隐身潜入单位",
+      "9:16"
+    ],
+    [
+      63,
+      "轻装机甲",
+      "支援型轻装机甲",
+      "战场支援轻装机甲",
+      "Full body illustration of a support mecha in anime style. A medium bipedal mecha approximately 10 meters tall, designed for battlefield support and repair. White armor with red cross medical symbols, equipped with repair drones stored in the chest compartment, a shield generator on the back, and a non-lethal suppression weapon system. Multiple small repair drones flying around it, working on a damaged allied mecha in the background. Standing in a forward operating base with medical supplies and equipment. Protective and nurturing presence despite being a war machine. Mecha anime art style, clean white medical aesthetic, warm lighting from repair sparks. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的战场支援轻装机甲。约10米高的中型双足机甲，专为战场支援和维修设计。白色装甲配红十字医疗标志，胸部舱室储存维修无人机，背部护盾发生器，非致命压制武器系统。多架小型维修无人机在周围飞行，在背景中维修受损的友方机甲。站在前线作战基地中，医疗用品和设备。虽然是战争机器但具有保护和养育的气场。机甲动漫艺术风格，干净白色医疗美学，维修火花的温暖光线。无文字，无水印。9:16竖版。",
+      "轻装机甲，战场支援/维修",
+      "9:16"
+    ],
+    [
+      "📁 中世纪铠甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      64,
+      "中世纪铠甲",
+      "骑士铠甲",
+      "全板甲骑士",
+      "Full body illustration of a medieval knight in full plate armor. A knight wearing a complete suit of 15th century gothic plate armor in polished steel, a great helm with a T-shaped visor showing only the eyes, a tabard in crimson and gold with a lion rampant crest over the armor. Holding a two-handed greatsword planted in the ground. Standing before a medieval castle gate at dawn, banners fluttering in the wind. Imposing and noble presence. Historical realism style, detailed metal reflections, dramatic dawn backlighting creating a heroic silhouette. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，穿全板甲的中世纪骑士。骑士穿15世纪哥特式抛光钢板甲全套，T形面甲盔只露出眼睛，铠甲外罩深红金色狮子纹章罩袍。双手持双手大剑插在地面。站在黎明时分的城堡大门前，旗帜在风中飘扬。威严高贵的气场。历史写实风格，精细金属反射，戏剧性黎明逆光创造英雄剪影。无文字，无水印。9:16竖版。",
+      "中世纪全板甲骑士",
+      "9:16"
+    ],
+    [
+      65,
+      "中世纪铠甲",
+      "骑士铠甲",
+      "十字军骑士",
+      "Full body illustration of a Crusader knight. A knight wearing chainmail over a padded gambeson, a white surcoat with a red cross emblem, a great helm with a flat top and narrow eye slits. A heater shield with the same red cross, a longsword at the hip, and a mace hanging from the saddle. Mounted on an armored warhorse, standing on a sandy hilltop with a vast desert stretching behind. A torn crusader flag planted in the ground. Harsh desert sunlight, dust and wind. Battle-worn and weary but resolute presence. Historical realism style, detailed chainmail texture, dramatic desert lighting. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，十字军骑士。骑士穿锁子甲内衬填充战袍，白色罩袍配红十字纹章，平顶大面甲盔窄眼缝。同红十字 heater 盾，腰间长剑，马鞍挂钉头锤。骑在披甲战马上，站在沙丘顶上，身后广阔沙漠延伸。地面插着破损的十字军旗。严酷沙漠阳光，风沙。饱经战火但坚毅的气场。历史写实风格，精细锁子甲纹理，戏剧性沙漠光线。无文字，无水印。9:16竖版。",
+      "十字军骑士，骑马战斗",
+      "9:16"
+    ],
+    [
+      66,
+      "中世纪铠甲",
+      "轻甲战士",
+      "维京战士",
+      "Full body illustration of a Viking warrior. A tall muscular man with long braided blonde hair and a full beard, blue eyes, war paint in dark lines. Wearing a chainmail shirt, leather bracers, a fur-trimmed cloak clasped at the shoulder with a bronze brooch. Wielding a battle axe and a round wooden shield painted with a spiral serpent design. Standing on the prow of a Viking longship during a stormy sea crossing, waves crashing, dark clouds overhead. Fierce and fearless presence. Historical realism with dramatic atmosphere, detailed textures of fur, leather and metal. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，维京战士。高大肌肉发达男子，金色长编辫胡须，蓝色眼睛，深色战纹。穿锁子甲衫，皮护臂，肩扣青铜胸针的毛皮边斗篷。挥舞战斧和绘有螺旋蛇纹的圆木盾。站在维京长船船头，暴风雨中渡海，波浪拍打，头顶乌云。凶猛无畏的气场。历史写实配戏剧性氛围，精细毛皮皮革和金属纹理。无文字，无水印。9:16竖版。",
+      "维京战士，北欧海盗",
+      "9:16"
+    ],
+    [
+      67,
+      "中世纪铠甲",
+      "轻甲战士",
+      "日本武士铠甲",
+      "Full body illustration of a Japanese samurai in full armor (Yoroi). A samurai wearing traditional O-yoroi armor with lacquered iron plates laced with colorful silk cords in red, blue and gold. A fierce horned kabuto (helmet) with a crescent moon crest and a menpo (face guard). Carrying a tachi (long sword) and a yumi (longbow) on his back. Standing in a misty bamboo forest at dawn, cherry blossom petals falling. Stoic and disciplined presence. Japanese historical art style, detailed armor construction, soft atmospheric lighting. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，穿全套铠甲（大铠）的日本武士。武士穿传统大铠，漆铁板用红蓝金色丝绳绑扎。凶猛带角的兜（头盔）配新月前立和面颊护甲（面颊）。持太刀（长刀），背负弓（长弓）。站在黎明雾蒙蒙的竹林中，樱花花瓣飘落。坚毅自律的气场。日本历史艺术风格，精细铠甲构造，柔和大气光线。无文字，无水印。9:16竖版。",
+      "日本武士，大铠全身甲",
+      "9:16"
+    ],
+    [
+      68,
+      "中世纪铠甲",
+      "轻甲战士",
+      "蒙古骑兵",
+      "Full body illustration of a Mongol cavalry warrior. A fierce warrior with a weathered face, narrow eyes, and a thin mustache. Wearing a layered lamellar armor (hatangu) in dark leather and iron plates, a fur-trimmed helmet with a horsehair plume, leather riding boots. Drawing a composite bow from horseback at full gallop, the bow made of horn and birch. The horse is also armored with leather barding. Charging across the vast Eurasian steppe under a vast sky, dust clouds behind. Swift and devastating presence. Historical realism, detailed nomadic armor and weaponry, dramatic golden steppe lighting. No text, no watermark. 16:9 horizontal format.",
+      "全身立绘，蒙古骑兵战士。饱经风霜的面容，窄眼，细胡须的凶猛战士。穿层叠札甲（哈坦古）深色皮革和铁板，毛皮边头盔配马鬃缨，皮骑靴。全速奔驰中从马背拉复合弓，角和桦木制成的弓。马也穿皮革马甲。在广阔天空下冲过辽阔的欧亚草原，身后尘云。迅猛毁灭性的气场。历史写实，精细游牧铠甲和武器，戏剧性金色草原光线。无文字，无水印。16:9横版。",
+      "蒙古骑兵，草原弓骑兵",
+      "16:9"
+    ],
+    [
+      "📁 东方战甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      69,
+      "东方战甲",
+      "仙侠战甲",
+      "金甲战神立绘",
+      "Full body character illustration of a golden-armored war deity in Chinese xianxia style. A towering male figure in full-body divine golden armor with intricate cloud and dragon relief carvings, a phoenix-winged helmet with a glowing red gem at the center, a flowing crimson cape. Wielding a massive golden halberd crackling with celestial lightning. Standing on a battlefield of fallen enemies, golden aura radiating outward forming a sun-like pattern on the ground. Eyes glowing with divine golden light through the helmet visor. Overwhelming divine power and majesty. Chinese mythological fantasy art, ultra-detailed armor engravings, dramatic golden lighting, epic scale. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的金甲战神。高大男性身影穿全身神圣金色铠甲，精细云龙浮雕雕刻，凤凰翼头盔中央发光红宝石，飘逸深红披风。挥舞巨大金色戟，闪烁天界闪电。站在倒下敌人的战场上，金色气场向外辐射在地面形成太阳般图案。头盔面甲中双眼散发神圣金光。压倒性的神圣力量和威严。中国神话奇幻艺术，超精细铠甲雕刻，戏剧性金色光线，史诗尺度。无文字，无水印。9:16竖版。",
+      "仙侠金甲战神",
+      "9:16"
+    ],
+    [
+      70,
+      "东方战甲",
+      "仙侠战甲",
+      "玄铁战甲修士",
+      "Full body character illustration of a dark-armored cultivator in Chinese xianxia style. A tall figure in full-body dark iron armor with purple spirit rune inscriptions that glow faintly, a closed-face helmet with two narrow glowing violet eye slits. The armor is covered in chains and sealing talismans suggesting a sealed evil within. Wielding a massive black iron sword that emits dark purple energy tendrils. Standing on a cliff during a thunderstorm, lightning illuminating the dark armor and revealing the intricate rune patterns. Ominous and terrifyingly powerful presence. Chinese dark fantasy art, detailed armor and weapon design, dramatic lightning illumination, dark atmospheric mood. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的暗甲修士。高大身影穿全身暗铁铠甲，紫色灵力符文微弱发光，封闭面甲有两个狭窄发光紫色眼缝。铠甲覆盖锁链和封印符咒暗示内部封印着邪恶。挥舞巨大黑铁剑散发暗紫色能量卷须。站在雷暴中的悬崖上，闪电照亮暗色铠甲揭示精细符文图案。不祥而恐怖强大的气场。中国暗黑奇幻艺术，精细铠甲和武器设计，戏剧性闪电照明，暗色情绪氛围。无文字，无水印。9:16竖版。",
+      "暗黑仙侠战甲，封印之力",
+      "9:16"
+    ],
+    [
+      71,
+      "东方战甲",
+      "仙侠战甲",
+      "天将神甲立绘",
+      "Full body character illustration of a celestial general in Chinese mythology style. A divine warrior in ornate white and gold armor with celestial cloud motifs, a winged crown helmet with a glowing pearl, flowing celestial silk ribbons attached to the armor. Holding a golden trident-tipped spear that crackles with heavenly fire. Floating above a sea of clouds, celestial palace architecture visible in the background. Multiple celestial soldiers in formation visible far below. Divine and authoritative presence, representing heavenly justice. Chinese celestial art, intricate armor design, luminous golden lighting, ethereal cloud atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国神话风格的天将。穿华丽白色和金色天界铠甲配天云纹样的神圣战士，翼冠头盔配发光珍珠，铠甲连接飘逸天界丝绸飘带。持金色三叉戟尖长矛，闪烁天火。漂浮在云海之上，背景可见天宫建筑。远处可见列阵的多名天兵。神圣威严的气场，代表天界正义。中国天界艺术，精细铠甲设计，发光金色光线，空灵云层氛围。无文字，无水印。9:16竖版。",
+      "天将神甲，天界将军",
+      "9:16"
+    ],
+    [
+      72,
+      "东方战甲",
+      "仙侠战甲",
+      "妖族战甲立绘",
+      "Full body character illustration of a demon general in Chinese xianxia style. A massive figure in blackened bone armor fused with dark iron, spikes protruding from the shoulders and elbows, a horned helmet with a glowing crimson gem. The armor appears to be grown from the body rather than worn. Wielding a chain-connected flail that leaves trails of dark fire. Standing in a nether realm with rivers of lava and twisted dead trees. Dark purple and crimson energy swirling around the feet. Savage and otherworldly power. Chinese dark fantasy art, organic armor design, eerie volcanic lighting, hellish atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，中国仙侠风格的妖族战将。巨大身影穿黑色骨甲融合暗铁，肩肘突出尖刺，角盔配发光红宝石。铠甲看起来像从身体长出而非穿戴。挥舞链式连枷留下暗火轨迹。站在有熔岩河和扭曲枯树的冥界。脚下旋转暗紫和深红能量。野蛮超凡的力量。中国暗黑奇幻艺术，有机铠甲设计，诡异火山光线，地狱氛围。无文字，无水印。9:16竖版。",
+      "妖族战甲，冥界将军",
+      "9:16"
+    ],
+    [
+      "📁 机娘/机械少女",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      73,
+      "机娘/机械少女",
+      "战斗型机娘",
+      "战斗型机械少女",
+      "Full body character illustration of a combat android girl in anime style. A young woman around 20 with an attractive but artificial beauty, silver-white hair in a high ponytail, one eye replaced by a glowing cyan cybernetic eye. Wearing sleek white and black mechanical armor plating that follows the curves of her body, with exposed mechanical joints at elbows and knees. Armed with an energy rifle and a beam saber on her hip. Standing in a rain-soaked cyberpunk city street at night, neon reflections on her armor. Cool and efficient expression. Anime mecha musume style, detailed mechanical integration with feminine form, cyberpunk aesthetic, neon-lit night atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，动漫风格的战斗型机械少女。20岁左右迷人但人工美感的年轻女子，银白色高马尾，一只眼被发光青色赛博格义眼替代。穿流线型白色和黑色机械装甲板贴合身体曲线，肘部和膝盖露出机械关节。装备能量步枪和腰间光束军刀。站在雨夜赛博朋克城市街道，霓虹灯反射在装甲上。冷静高效的表情。动漫机甲少女风格，精细机械与女性身体融合，赛博朋克美学，霓虹灯夜氛围。无文字，无水印。9:16竖版。",
+      "战斗型机娘，赛博朋克",
+      "9:16"
+    ],
+    [
+      74,
+      "机娘/机械少女",
+      "女仆型机娘",
+      "女仆型机械少女",
+      "Full body character illustration of a maid android girl in anime style. A cute young woman around 18 with a gentle smile, soft pink hair in twin tails with mechanical hair accessories, warm brown eyes with subtle circuit patterns in the iris. Wearing a black and white maid dress with subtle mechanical panel lines and glowing blue accents at the seams. Holding a silver serving tray with a teacup, one hand raised in a polite gesture. Standing in an elegant Victorian-style room with a robot charging station visible in the corner. Warm and nurturing despite being artificial. Anime mecha musume style, delicate balance of mechanical and cute, soft interior lighting. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，动漫风格的女仆型机械少女。18岁左右可爱年轻女子，温柔微笑，粉色双马尾配机械发饰，温暖棕色眼睛虹膜有微妙电路纹。穿黑白女仆装，微妙机械面板线和接缝处发光蓝色点缀。持银色托盘和茶杯，一手礼貌抬起。站在优雅维多利亚风格房间中，角落可见机器人充电站。虽然是人造的但温暖养育。动漫机甲少女风格，机械与可爱的精妙平衡，柔和室内光线。无文字，无水印。9:16竖版。",
+      "女仆型机娘，温馨日常",
+      "9:16"
+    ],
+    [
+      75,
+      "机娘/机械少女",
+      "护士型机娘",
+      "护士型机械少女",
+      "Full body character illustration of a nurse android girl in anime style. A gentle young woman with a caring expression, short white hair with a small medical cross hairclip, soft green eyes with HUD medical scan overlay visible. Wearing a white nurse uniform with red cross accents and subtle mechanical joint exposure at wrists and neck. Carrying a medical kit bag and a holographic tablet showing patient vitals. Standing in a clean futuristic medical bay with soft blue lighting and medical equipment. Compassionate and professional. Anime mecha musume style, clean medical aesthetic, soft blue-white lighting. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，动漫风格的护士型机械少女。温柔年轻女子，关怀表情，白色短发配小红十字发夹，柔和绿色眼睛可见HUD医疗扫描叠加。穿白色护士服红十字点缀，手腕和颈部微妙机械关节外露。携带医疗包和显示患者生命体征的全息平板。站在干净未来感医疗舱中，柔和蓝色光线和医疗设备。同情心和专业性。动漫机甲少女风格，干净医疗美学，柔和蓝白光线。无文字，无水印。9:16竖版。",
+      "护士型机娘，医疗用途",
+      "9:16"
+    ],
+    [
+      76,
+      "机娘/机械少女",
+      "偶像型机娘",
+      "偶像型机械少女",
+      "Full body character illustration of an idol android girl in anime style. A vibrant young woman around 19 with an enthusiastic smile, long gradient hair (pink to purple) with LED light strips woven through, sparkling multicolored eyes with heart-shaped pupils. Wearing a futuristic idol performance costume with holographic fabric that shifts colors, mechanical arm guards with built-in speaker units, platform boots with LED soles. Performing on a concert stage with holographic effects, light beams, and floating musical notes around her. Energetic and captivating stage presence. Anime mecha musume style, colorful and flashy design, concert stage lighting with laser and hologram effects. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，动漫风格的偶像型机械少女。19岁左右活力年轻女子，热情微笑，长渐变发色（粉到紫）编织LED灯带，闪亮多彩眼睛心形瞳孔。穿未来感偶像演出服，全息面料变色，机械臂甲内置扬声器，LED鞋底平台靴。在演唱会上表演，全息效果、光束和漂浮音符环绕。充满活力的迷人舞台气场。动漫机甲少女风格，多彩闪亮设计，演唱会舞台激光和全息效果光线。无文字，无水印。9:16竖版。",
+      "偶像型机娘，演唱会舞台",
+      "9:16"
+    ],
+    [
+      77,
+      "机娘/机械少女",
+      "古风机娘",
+      "古风机关少女",
+      "Full body character illustration of a Chinese-style automaton girl in anime style. A beautiful young woman with an ethereal quality, black hair in an elaborate updo with jade mechanical hairpins that glow green. Wearing a modified Hanfu (traditional Chinese dress) in white and pale gold with visible mechanical joints and gear mechanisms at the shoulders and waist. Delicate porcelain-like face with a small clockwork key visible at the nape of her neck. Holding a mechanical folding fan made of brass and silk. Standing in a traditional Chinese garden with pavilions and lotus ponds. Mysterious and elegant. Anime style blending Chinese tradition with clockwork mechanics, warm golden afternoon light. No text, no watermark. 9:16 vertical format.",
+      "全身角色立绘，动漫风格的中国风机关少女。空灵美貌的年轻女子，黑色精致发髻配发光绿色玉石机械发簪。穿改良汉服白色和淡金色，肩部和腰部可见机械关节和齿轮机构。精致瓷白面容，颈后可见小钟表钥匙。持黄铜和丝绸制成的机械折叠扇。站在传统中国花园中亭台和荷花池旁。神秘优雅。动漫风格融合中国传统与钟表机械，温暖金色午后光线。无文字，无水印。9:16竖版。",
+      "古风机关少女，中国风",
+      "9:16"
+    ],
+    [
+      "📁 机甲设定与武器",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      78,
+      "机甲设定与武器",
+      "机甲设定板",
+      "重装机甲三视图",
+      "Mecha design sheet of a heavy assault mecha. Multiple views on white background: front view (full body), side view (full body), rear view (full body), three-quarter action pose. Detail callouts for: cockpit interior, shoulder weapon systems, leg joint mechanics, chest armor layers, and thruster unit. Technical blueprint style with measurement lines and annotations. Clean line art with flat color fills in military gray and olive drab. Professional mecha design sheet layout, anime mecha aesthetic. No text labels on the drawing. White background. 16:9 horizontal format.",
+      "重型突击机甲设定板。白色背景多视图：正面（全身）、侧面（全身）、背面（全身）、四分之三动作姿势。细节标注：驾驶舱内部、肩部武器系统、腿部关节机械、胸部装甲层、推进器单元。技术蓝图风格配测量线和注释。干净线稿配平面填色军灰色和橄榄色。专业机甲设定板布局，动漫机甲美学。画面本身无文字标签。白色背景。16:9横版。",
+      "机甲三视图设定板",
+      "16:9"
+    ],
+    [
+      79,
+      "机甲设定与武器",
+      "机甲武器",
+      "光束步枪立绘",
+      "Create a detailed weapon illustration of a mecha beam rifle. A long-barreled energy rifle approximately 4 meters in length, designed for mecha use. Sleek white and blue housing with cooling vents along the barrel, a holographic targeting scope on top, an energy cell magazine that glows cyan when charged. The rifle floating at a 45-degree angle with energy particles streaming from the muzzle. Technical cutaway showing internal energy conduit and focusing lens. Dark background with subtle grid pattern. Anime mecha weapon design, clean mechanical rendering, dramatic energy glow effects. No text, no watermark. 9:16 vertical format.",
+      "创建一张机甲光束步枪的精细武器插图。约4米长的管状能量步枪，为机甲设计。流线型白色和蓝色外壳，枪管沿侧冷却口，顶部全息瞄准镜，能量电池匣充电时发青光。步枪以45度角悬浮，枪口能量粒子流出。技术剖面展示内部能量管道和聚焦透镜。暗色背景配微妙网格图案。动漫机甲武器设计，干净机械渲染，戏剧性能量发光效果。无文字，无水印。9:16竖版。",
+      "机甲光束步枪武器",
+      "9:16"
+    ],
+    [
+      80,
+      "机甲设定与武器",
+      "机甲武器",
+      "巨型战锤立绘",
+      "Create a detailed weapon illustration of a mecha war hammer. A massive two-handed hammer approximately 6 meters in length, with a block-shaped hammer head made of dense tungsten alloy. The hammer head features built-in rocket boosters for enhanced swing momentum and a shock absorption system. The handle has mechanical grip adapters for mecha hands. Steam and heat venting from the boosters. Floating at a dynamic angle with motion blur suggesting a powerful swing. Technical detail callouts on the grip mechanism and booster system. Dark industrial background. Anime mecha weapon design, heavy and brutal aesthetic, heat and steam effects. No text, no watermark. 9:16 vertical format.",
+      "创建一张机甲战锤的精细武器插图。约6米长的巨大双手锤，方块形锤头由高密度钨合金制成。锤头内置火箭助推器增强挥动动量和减震系统。手柄有适配机甲手的机械握把。助推器排出蒸汽和热量。动态角度悬浮，运动模糊暗示强力挥击。握把机构和助推器系统技术细节标注。暗色工业背景。动漫机甲武器设计，沉重粗暴美学，热和蒸汽效果。无文字，无水印。9:16竖版。",
+      "机甲巨型战锤武器",
+      "9:16"
+    ],
+    [
+      81,
+      "机甲设定与武器",
+      "机甲BOSS",
+      "巨型BOSS机甲",
+      "Full body illustration of a boss-level mega mecha in anime style. A colossal bipedal mecha approximately 50 meters tall, dwarfing the surrounding cityscape. The mecha has a demonic angular design with four arms — two holding massive energy cannons, two wielding enormous blades. The torso opens to reveal a devastating beam cannon core. Dark purple and black armor with glowing red energy lines running through the frame. Standing in a destroyed city, crushing buildings under its feet, tiny military mecha visible in the foreground for scale comparison. Apocalyptic and overwhelming presence. Anime mecha boss design, extreme scale, dramatic red and purple energy lighting, destruction atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的BOSS级巨型机甲。约50米高的巨大双足机甲，使周围城市天际线相形见绌。机甲有恶魔般棱角设计，四条手臂——两条持巨大能量炮，两条挥舞巨型刀刃。躯干打开露出毁灭性光束炮核心。深紫和黑色装甲，发光红色能量线贯穿框架。站在被毁城市中，脚下碾压建筑，前景可见微小军用机甲用于尺度对比。末日压倒性气场。动漫机甲BOSS设计，极端尺度，戏剧性红紫能量光线，毁灭氛围。无文字，无水印。9:16竖版。",
+      "巨型BOSS机甲，终极敌人",
+      "9:16"
+    ],
+    [
+      82,
+      "机甲设定与武器",
+      "战损机甲",
+      "战损重装机甲",
+      "Full body illustration of a battle-damaged mecha in anime style. A once-pristine white and blue mecha now covered in scorch marks, bullet holes, and exposed internal wiring. The left arm is completely severed at the elbow, sparking wires dangling. The chest armor is partially blown away revealing internal framework and the cockpit. One eye sensor is shattered, the other glowing dimly red. The mecha is kneeling on one knee, supporting itself with its remaining arm, the weapon lost. Smoke and steam rising from multiple wounds. Standing in a devastated battlefield at sunset. Tragic and heroic presence. Anime mecha art style, detailed damage rendering, dramatic sunset backlighting, emotional atmosphere. No text, no watermark. 9:16 vertical format.",
+      "全身立绘，动漫风格的战损机甲。曾经洁白蓝色的机甲现在布满烧灼痕迹、弹孔和裸露的内部线路。左臂在肘部完全断裂，火花电线垂挂。胸甲部分炸开露出内部框架和驾驶舱。一只眼部传感器破碎，另一只暗淡发红光。机甲单膝跪地，用仅剩的手臂支撑自己，武器丢失。多处伤口冒烟和蒸汽。站在日落时分的毁灭战场上。悲壮英雄的气场。动漫机甲艺术风格，精细战损渲染，戏剧性日落逆光，情感氛围。无文字，无水印。9:16竖版。",
+      "战损机甲，悲壮英雄感",
+      "9:16"
+    ],
+    [
+      83,
+      "机甲设定与武器",
+      "机甲驾驶员",
+      "机甲驾驶舱内景",
+      "Create an illustration of a mecha cockpit interior. A young female pilot sitting in a cramped cockpit with multiple holographic display screens surrounding her. She wears a neural interface headset and a form-fitting pilot suit. The cockpit has complex control panels with buttons, levers, and touchscreens showing radar, power levels, and system status. Red warning lights flashing on one display. Through the cockpit canopy, an ongoing battle is visible outside. Intense and focused expression. Anime mecha interior design, detailed cockpit instruments, holographic HUD elements, dramatic contrast between cockpit lighting and outside battle. No text, no watermark. 16:9 horizontal format.",
+      "创建一张机甲驾驶舱内部的插图。年轻女飞行员坐在狭窄驾驶舱中，周围环绕多个全息显示屏。戴神经接口耳机和贴身驾驶服。驾驶舱有复杂控制面板，按钮、操纵杆和触摸屏显示雷达、功率和系统状态。一个显示屏闪烁红色警告灯。透过驾驶舱盖板可见外部正在进行的战斗。紧张专注的表情。动漫机甲内部设计，精细驾驶舱仪表，全息HUD元素，驾驶舱光线与外部战斗的戏剧性对比。无文字，无水印。16:9横版。",
+      "机甲驾驶舱内景",
+      "16:9"
+    ],
+    [
+      "赛博朋克机甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      84,
+      "机甲/铠甲/战甲/机娘",
+      "赛博朋克机甲",
+      "银色机甲少女·赛博朋克",
+      "A beautiful woman, half-body portrait, smiling expression, wearing silver mecha armor with intricate mechanical joints, gorgeous flowing black hair, cyberpunk city background with neon lights and holographic billboards, rain drops on armor surface, high-definition photography, cinematic lighting, depth of field",
+      "一位美丽的女性，半身肖像，面带微笑，穿着银色机甲铠甲，精密的机械关节，华丽的飘逸黑发，赛博朋克城市背景配霓虹灯和全息广告牌，铠甲表面有雨滴，高清摄影，电影级光影，景深效果",
+      "赛博朋克风格角色立绘、小说封面、游戏角色设计",
+      "3:4 / 9:16"
+    ],
+    [
+      85,
+      "机甲/铠甲/战甲/机娘",
+      "赛博朋克机甲",
+      "红色战甲·雨夜都市",
+      "Close-up portrait of a warrior in advanced sleek armor, red and white accents on black and gray base, helmet with red visor-like eyes, intense focused look, water droplets on armor surface, blurred urban night lights in background, highly detailed mechanical lines and patterns suggesting advanced technology, cinematic lighting, rain atmosphere",
+      "穿着先进流线型铠甲的战士特写肖像，黑色灰色底色配红色白色点缀，头盔有红色护目镜般的眼睛，强烈专注的表情，铠甲表面水滴，背景是模糊的城市夜景灯光，高度精细的机械线条和图案暗示先进科技，电影级光影，雨夜氛围",
+      "科幻电影角色、游戏CG、漫画封面",
+      "9:16 / 3:4"
+    ],
+    [
+      86,
+      "机甲/铠甲/战甲/机娘",
+      "赛博朋克机甲",
+      "赛博武士·未来东京",
+      "Cyberpunk samurai standing on a neon-lit rooftop in futuristic Tokyo, wearing high-tech armor blending traditional Japanese samurai design with cybernetic enhancements, glowing katana, holographic HUD display on visor, cherry blossom petals floating in the wind, dramatic lighting with neon reflections on armor, full body shot, concept art style",
+      "赛博朋克武士站在未来东京霓虹灯照亮的屋顶上，穿着融合传统日本武士设计与赛博增强的高科技铠甲，发光的武士刀，面罩上有全息HUD显示，樱花花瓣在风中飘舞，戏剧性光影配铠甲上的霓虹反射，全身镜头，概念艺术风格",
+      "赛博朋克游戏角色、动漫角色设计、科幻插画",
+      "3:4 / 16:9"
+    ],
+    [
+      87,
+      "机甲/铠甲/战甲/机娘",
+      "赛博朋克机甲",
+      "机械改造人·义体战士",
+      "Full body character design of a cyborg warrior, half human half machine body with visible mechanical prosthetics, exposed cables and hydraulic systems, one glowing cybernetic eye, wearing tactical vest over metallic limbs, dark industrial background with sparks, gritty cyberpunk aesthetic, detailed mechanical engineering illustration",
+      "半机械人战士全身角色设计，半人半机械的身体，可见的机械假肢，裸露的电缆和液压系统，一只发光的电子眼，金属肢体上穿着战术背心，黑暗工业背景配火花，粗犷赛博朋克美学，精细的机械工程插画",
+      "科幻设定集、游戏角色设计、漫画角色",
+      "3:4 / 1:1"
+    ],
+    [
+      "动力装甲/外骨骼",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      88,
+      "机甲/铠甲/战甲/机娘",
+      "动力装甲/外骨骼",
+      "军用动力装甲·战场前线",
+      "A soldier wearing full-body powered exoskeleton armor standing in a war-torn battlefield, heavy tactical military design with thick armor plates and hydraulic joint systems, mounted shoulder cannon, glowing blue energy core on chest, dust and debris flying around, dramatic sky with dark clouds, military sci-fi illustration, highly detailed mechanical design",
+      "穿着全身动力外骨骼铠甲的士兵站在被战争摧毁的战场上，厚重的战术军事设计配厚装甲板和液压关节系统，肩部挂载加农炮，胸部发光的蓝色能量核心，灰尘和碎片飞舞，戏剧性的乌云天空，军事科幻插画，高度精细的机械设计",
+      "军事科幻游戏、小说封面、概念设定",
+      "3:4 / 16:9"
+    ],
+    [
+      89,
+      "机甲/铠甲/战甲/机娘",
+      "动力装甲/外骨骼",
+      "轻型外骨骼·城市特警",
+      "SWAT team member in lightweight tactical exoskeleton suit, sleek black and white armor with blue LED strips, holding an assault rifle, standing in front of a police vehicle with flashing lights, urban street at night, rain-slicked road reflecting neon signs, cinematic composition, photorealistic rendering",
+      "特警队员穿着轻型战术外骨骼套装，流线型黑白铠甲配蓝色LED灯带，手持突击步枪，站在闪烁警灯的警车前，夜晚城市街道，被雨水打湿的道路反射霓虹招牌，电影级构图，照片级真实渲染",
+      "近未来军事设定、科幻电影角色、游戏角色",
+      "16:9 / 3:4"
+    ],
+    [
+      90,
+      "机甲/铠甲/战甲/机娘",
+      "动力装甲/外骨骼",
+      "工业外骨骼·工程作业",
+      "Worker wearing industrial powered exoskeleton for heavy lifting, bright orange and yellow safety-colored mechanical frame, hydraulic arms lifting massive steel beam, construction site background with cranes and scaffolding, bright daylight, realistic industrial photography style, safety helmet with AR display",
+      "工人穿着用于重型搬运的工业动力外骨骼，亮橙黄色安全色机械框架，液压臂举起巨大钢梁，建筑工地背景配起重机和脚手架，明亮日光，写实工业摄影风格，带AR显示的安全帽",
+      "近未来工业设计、科幻场景设定、科技宣传",
+      "16:9 / 3:4"
+    ],
+    [
+      91,
+      "机甲/铠甲/战甲/机娘",
+      "动力装甲/外骨骼",
+      "太空动力装甲·零重力",
+      "Astronaut in advanced space power armor floating in zero gravity, white and gold EVA suit with articulated mechanical joints and thruster packs, Earth visible in the background among stars, helmet visor reflecting cosmic scenery, detailed life support systems on back, cinematic space lighting, hyper-detailed sci-fi illustration",
+      "穿着先进太空动力装甲的宇航员漂浮在零重力中，白金色舱外活动服配铰接机械关节和推进器背包，背景星空中的地球，头盔面罩反射宇宙景色，背部精细的生命维持系统，电影级太空光影，超精细科幻插画",
+      "太空科幻设定、游戏角色、科幻电影概念",
+      "3:4 / 16:9"
+    ],
+    [
+      "幻想铠甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      92,
+      "机甲/铠甲/战甲/机娘",
+      "幻想铠甲",
+      "圣骑士·神圣铠甲",
+      "A holy paladin in radiant golden plate armor, engraved with angelic runes and glowing holy symbols, holding a massive two-handed sword with a crossguard, white cape flowing in divine wind, heavenly light rays breaking through clouds, standing on a cliff overlooking a vast kingdom, fantasy RPG character art, detailed metal textures",
+      "穿着闪耀金色板甲的圣骑士，铠甲上刻有天使符文和发光的神圣符号，手持带十字护手的大型双手剑，白色披风在神圣之风中飘扬，天堂光线穿透云层，站在悬崖上俯瞰广阔王国，幻想RPG角色艺术，精细的金属纹理",
+      "奇幻RPG游戏角色、小说封面、桌游卡牌",
+      "3:4 / 9:16"
+    ],
+    [
+      93,
+      "机甲/铠甲/战甲/机娘",
+      "幻想铠甲",
+      "暗黑骑士·堕落铠甲",
+      "Dark knight in corrupted black armor with glowing purple veins of dark magic running through the metal plates, jagged spiky design, holding a cursed greatsword dripping with shadow energy, red glowing eyes visible through the helmet slit, standing in a field of withered flowers under a blood-red moon, dark fantasy illustration, ominous atmosphere",
+      "穿着腐化黑色铠甲的暗黑骑士，金属板上流淌着发光紫色暗魔法纹路，锯齿状尖刺设计，手持诅咒大剑滴落暗影能量，头盔缝隙中可见红色发光的眼睛，站在血色月光下枯萎花田中，黑暗奇幻插画，不祥氛围",
+      "黑暗奇幻游戏、反派角色设计、小说插图",
+      "3:4 / 9:16"
+    ],
+    [
+      94,
+      "机甲/铠甲/战甲/机娘",
+      "幻想铠甲",
+      "精灵游侠·自然铠甲",
+      "Elven ranger wearing organic armor made from enchanted wood, living vines, and crystalline leaves, elegant slim design with nature motifs, holding an ornate longbow with a glowing green string, forest background with bioluminescent plants and fireflies, ethereal soft lighting, fantasy concept art with Art Nouveau influences",
+      "精灵游侠穿着由附魔木材、活藤蔓和水晶叶片制成的有机铠甲，优雅纤细的设计配自然图案，手持华丽长弓配发光绿色弓弦，森林背景配生物发光植物和萤火虫，空灵柔和光影，受新艺术运动影响的幻想概念艺术",
+      "奇幻游戏角色、精灵设定、童话插画",
+      "3:4 / 9:16"
+    ],
+    [
+      95,
+      "机甲/铠甲/战甲/机娘",
+      "幻想铠甲",
+      "龙骑士·龙骨铠甲",
+      "Dragon knight wearing armor forged from dragon bones and scales, iridescent dark red and black coloration with glowing ember-like patterns, dragon skull helmet with horns, a massive dragon lance weapon, standing atop a castle wall during a volcanic eruption, flying embers and ash in the air, epic fantasy battle scene, dramatic volumetric lighting",
+      "龙骑士穿着由龙骨和龙鳞锻造的铠甲，虹彩暗红黑色配发光余烬般图案，龙骨头盔配犄角，巨大的龙枪武器，站在火山喷发时的城堡墙上，空中飞舞的余烬和灰烬，史诗奇幻战斗场景，戏剧性体积光",
+      "史诗奇幻游戏、龙骑士设定、小说封面",
+      "3:4 / 16:9"
+    ],
+    [
+      96,
+      "机甲/铠甲/战甲/机娘",
+      "幻想铠甲",
+      "冰霜女武神·寒冰铠甲",
+      "Valkyrie wearing crystalline ice armor that refracts light into rainbow prisms, frost patterns spreading across the metal surface, white fur-lined cloak, holding a spear made of enchanted ice, standing on a frozen lake under aurora borealis, snow particles in the air, Nordic fantasy art style, cold blue and white color palette",
+      "女武神穿着将光线折射成彩虹棱镜的水晶冰铠甲，霜花图案在金属表面蔓延，白色毛边斗篷，手持附魔冰制成的长矛，站在极光下的冰冻湖面上，空中雪花粒子，北欧幻想艺术风格，冷蓝白色调",
+      "北欧神话设定、冰雪奇幻角色、游戏角色",
+      "3:4 / 9:16"
+    ],
+    [
+      "机娘/机械少女·进阶",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      97,
+      "机甲/铠甲/战甲/机娘",
+      "机娘/机械少女·进阶",
+      "赛博朋克机娘·霓虹街头",
+      "A cyberpunk mecha girl with metallic prosthetic arms and legs, wearing a futuristic cropped jacket and high-tech boots with glowing neon strips, asymmetrical design with one human arm and one robotic arm, short silver hair with LED accessories, standing in a rain-soaked alley with neon signs reflecting on wet surfaces, full body character design, anime-influenced sci-fi illustration",
+      "赛博朋克机娘，金属假肢手臂和腿部，穿着未来主义短款夹克和配发光霓虹灯带的高科技靴子，不对称设计配一只人手臂和一只机械臂，银色短发配LED配饰，站在被雨水浸透的小巷中，霓虹招牌在湿润表面反射，全身角色设计，受动漫影响的科幻插画",
+      "赛博朋克动漫角色、游戏立绘、同人创作",
+      "3:4 / 9:16"
+    ],
+    [
+      98,
+      "机甲/铠甲/战甲/机娘",
+      "机娘/机械少女·进阶",
+      "军事机娘·战术装备",
+      "Military mecha girl in full combat gear, wearing camouflage-patterned armor plates over school uniform-inspired base, tactical headset with cat ear antennas, holding a large assault rifle almost as big as her body, ammunition belt across chest, confident salute pose, military base background with helicopters, chibi-influenced proportions with detailed weapon design, anime style",
+      "军事机娘全套战斗装备，校服风格底装上覆盖迷彩图案装甲板，战术耳机配猫耳天线，手持几乎与她身体一样大的突击步枪，胸前弹链，自信的敬礼姿势，军事基地背景配直升机，受Q版影响的比例配精细武器设计，动漫风格",
+      "军事题材游戏角色、动漫角色、手办设计",
+      "3:4 / 1:1"
+    ],
+    [
+      99,
+      "机甲/铠甲/战甲/机娘",
+      "机娘/机械少女·进阶",
+      "蒸汽朋克机娘·维多利亚",
+      "Steampunk mecha girl with brass and copper mechanical limbs, Victorian-era dress combined with gear-driven prosthetics, clockwork mechanisms visible through transparent panels, wearing a top hat with goggles, standing in a clockwork tower workshop filled with brass pipes and steam, warm sepia-toned lighting, detailed mechanical illustration, vintage aesthetic",
+      "蒸汽朋克机娘，黄铜和铜制机械肢体，维多利亚时代连衣裙结合齿轮驱动假肢，透明面板中可见钟表机械装置，戴礼帽配护目镜，站在充满黄铜管道和蒸汽的钟表塔工坊中，温暖棕褐色调光影，精细机械插画，复古美学",
+      "蒸汽朋克设定、复古科幻角色、插画",
+      "3:4 / 9:16"
+    ],
+    [
+      100,
+      "机甲/铠甲/战甲/机娘",
+      "机娘/机械少女·进阶",
+      "魔法机娘·魔导装甲",
+      "Magical mecha girl wearing armor that combines technology and arcane magic, floating magical circles around mechanical gauntlets, crystalline energy core on chest pulsing with arcane power, one wing made of metal feathers and one wing of pure magic energy, dual wielding a tech-enhanced staff, fantasy-meets-sci-fi aesthetic, vibrant purple and gold color scheme, anime illustration style",
+      "魔法机娘穿着融合科技和奥术魔法的铠甲，机械护手周围漂浮魔法阵，胸部水晶能量核心脉动着奥术力量，一只金属羽毛翅膀和一只纯魔法能量翅膀，双持科技增强法杖，奇幻遇上科幻美学，鲜艳紫金配色，动漫插画风格",
+      "魔法科幻融合设定、游戏角色、轻小说插图",
+      "3:4 / 9:16"
+    ],
+    [
+      101,
+      "机甲/铠甲/战甲/机娘",
+      "机娘/机械少女·进阶",
+      "深海机娘·水栖装甲",
+      "Aqua mecha girl designed for underwater combat, sleek hydrodynamic armor in deep blue and bioluminescent cyan, helmet with transparent visor showing flowing hair underwater, mechanical tentacle-like appendages on back, holding a high-pressure water cannon, underwater scene with coral reefs and deep sea creatures, caustic light rays filtering through water, sci-fi anime character design",
+      "为水下战斗设计的深海机娘，流线型水动力铠甲深蓝色配生物发光青色，头盔透明面罩显示水下飘逸头发，背部机械触手状附属物，手持高压水炮，水下场景配珊瑚礁和深海生物，焦散光线透过水面，科幻动漫角色设计",
+      "海洋科幻设定、游戏角色、动漫角色",
+      "3:4 / 9:16"
+    ],
+    [
+      "机甲设定与场景",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      102,
+      "机甲/铠甲/战甲/机娘",
+      "机甲设定与场景",
+      "机甲机库·整备场景",
+      "Interior of a massive mecha hangar, multiple armored mechs in various states of maintenance suspended by heavy cables and platforms, technicians in orange jumpsuits working on a giant mech's open chest cavity revealing glowing circuitry, industrial overhead lights casting dramatic shadows, sparks from welding tools, oil stains on concrete floor, sci-fi environment concept art, cinematic wide shot",
+      "巨大机甲机库内部，多台装甲机甲处于不同维护状态，悬挂在重型缆绳和平台上，穿橙色连体服的技术人员在巨型机甲打开的胸腔中工作，露出发光电路，工业顶灯投射戏剧性阴影，焊接工具的火花，混凝土地板上的油渍，科幻环境概念艺术，电影级广角镜头",
+      "科幻场景设定、游戏关卡背景、漫画场景",
+      "16:9 / 21:9"
+    ],
+    [
+      103,
+      "机甲/铠甲/战甲/机娘",
+      "机甲设定与场景",
+      "机甲对战·爆炸场景",
+      "Two giant mechs clashing in an explosive battle scene, one red mech throwing a punch while the blue mech blocks with an energy shield, shockwave rippling outward, debris and sparks flying, destroyed city buildings in the background on fire, dramatic action composition with motion blur, anime-style mecha battle illustration, dynamic camera angle from below looking up",
+      "两台巨型机甲在爆炸性战斗场景中交锋，红色机甲出拳而蓝色机甲用能量盾格挡，冲击波向外扩散，碎片和火花飞溅，背景中被摧毁的城市建筑着火，戏剧性动作构图配运动模糊，动漫风格机甲战斗插画，从下往上的动态摄像机角度",
+      "机甲动漫场景、游戏战斗画面、海报设计",
+      "16:9 / 21:9"
+    ],
+    [
+      104,
+      "机甲/铠甲/战甲/机娘",
+      "机甲设定与场景",
+      "机甲驾驶舱·第一人称视角",
+      "First-person view from inside a mecha cockpit, multiple holographic display screens showing radar, power levels, and weapon systems, pilot's hands on control sticks, glowing buttons and switches on the dashboard, cracked windshield showing an enemy mech approaching through the damage, red warning lights flashing, immersive sci-fi interior, highly detailed HUD interface design",
+      "从机甲驾驶舱内部的第一人称视角，多个全息显示屏显示雷达、能量等级和武器系统，飞行员的手在操纵杆上，仪表盘上发光的按钮和开关，破裂的挡风玻璃透过裂缝显示敌方机甲逼近，红色警告灯闪烁，沉浸式科幻内饰，高度精细的HUD界面设计",
+      "科幻游戏UI设计、动漫场景、VR概念",
+      "16:9 / 21:9"
+    ],
+    [
+      105,
+      "机甲/铠甲/战甲/机娘",
+      "机甲设定与场景",
+      "废弃机甲·末日废墟",
+      "An abandoned giant mech overgrown with vegetation, lying half-buried in a post-apocalyptic wasteland, moss and vines covering the rusted armor plates, one arm reaching toward the sky, a small tree growing from the shoulder joint, golden hour sunlight streaming through clouds, a lone wanderer standing at the mech's feet for scale, melancholic and atmospheric, concept art painting style",
+      "被植被覆盖的废弃巨型机甲，半埋在末日废土中，苔藓和藤蔓覆盖生锈的装甲板，一只手臂伸向天空，肩关节处长出一棵小树，黄金时段阳光透过云层，一个孤独的流浪者站在机甲脚下作为比例参考，忧郁而富有氛围，概念艺术绘画风格",
+      "末日科幻设定、游戏场景概念、小说插图",
+      "16:9 / 21:9"
+    ],
+    [
+      106,
+      "机甲/铠甲/战甲/机娘",
+      "机甲设定与场景",
+      "机甲工厂·生产线",
+      "Automated mecha production factory interior, assembly line of robotic arms constructing mecha parts, massive unfinished mech skeleton hanging from ceiling rails, sparks flying from welding robots, conveyor belts carrying armor components, blue and orange industrial lighting, futuristic manufacturing facility, clean sci-fi aesthetic with geometric architecture, wide establishing shot",
+      "自动化机甲生产工厂内部，机械臂装配线构建机甲零件，巨大的未完工机甲骨架悬挂在天花板轨道上，焊接机器人飞溅火花，传送带运送铠甲组件，蓝橙色工业照明，未来制造设施，干净的科幻美学配几何建筑，广角全景镜头",
+      "科幻场景设定、工业设计概念、游戏背景",
+      "16:9 / 21:9"
+    ],
+    [
+      "东方机甲/仙侠战甲",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      107,
+      "机甲/铠甲/战甲/机娘",
+      "东方机甲/仙侠战甲",
+      "仙侠机甲·飞剑战甲",
+      "Xianxia mecha warrior in armor that blends ancient Chinese cultivation aesthetics with futuristic technology, flowing silk robes over metallic chest plates engraved with Taoist talismans, floating mechanical flying swords arranged in a sword formation behind, qi energy circuits glowing along the armor joints, standing on a cloud peak above a sea of clouds, Chinese fantasy sci-fi fusion art, ethereal atmosphere",
+      "仙侠机甲战士，铠甲融合古代中国修仙美学与未来科技，金属胸甲上的飘逸丝绸长袍刻有道教符箓，身后排列成剑阵的悬浮机械飞剑，气能量电路沿铠甲关节发光，站在云海之上的云峰上，中国奇幻科幻融合艺术，空灵氛围",
+      "仙侠科幻融合设定、游戏角色、小说封面",
+      "3:4 / 9:16"
+    ],
+    [
+      108,
+      "机甲/铠甲/战甲/机娘",
+      "东方机甲/仙侠战甲",
+      "机关兽·青铜战甲",
+      "Ancient Chinese mechanical warrior in bronze armor inspired by Qin dynasty terracotta warriors, intricate gear and lever mechanisms visible between armor segments, jade inlays as energy conductors, holding a bronze halberd with mechanical enhancements, standing before an ancient palace with mechanical dragon decorations, warm golden lighting, Chinese steampunk aesthetic, historical fantasy illustration",
+      "古代中国机械战士穿着受秦代兵马俑启发的青铜铠甲，铠甲段之间可见精密的齿轮和杠杆机构，玉石镶嵌作为能量导体，手持带机械增强的青铜戟，站在有机械龙装饰的古代宫殿前，温暖金色光照，中国蒸汽朋克美学，历史奇幻插画",
+      "中国古风科幻设定、机关术题材、游戏角色",
+      "3:4 / 9:16"
+    ],
+    [
+      109,
+      "机甲/铠甲/战甲/机娘",
+      "东方机甲/仙侠战甲",
+      "妖族机甲·兽形战甲",
+      "Demon tribe mecha warrior wearing beast-shaped armor inspired by Chinese mythology, tiger-head helmet with glowing amber eyes, armor plates resembling dragon scales with red energy veins, a mechanical tail whipping behind, clawed gauntlets with retractable blades, standing in a burning bamboo forest, fierce tribal war paint patterns on the armor, dark Chinese fantasy aesthetic",
+      "妖族机甲战士穿着受中国神话启发的兽形铠甲，虎头头盔配发光琥珀色眼睛，类似龙鳞的铠甲板配红色能量纹路，身后甩动的机械尾巴，带可伸缩刀刃的爪形护手，站在燃烧的竹林中，铠甲上凶猛的部落战争彩绘图案，黑暗中国奇幻美学",
+      "妖族设定、仙侠反派角色、游戏角色设计",
+      "3:4 / 9:16"
+    ],
+    [
+      110,
+      "机甲/铠甲/战甲/机娘",
+      "东方机甲/仙侠战甲",
+      "天宫机甲·仙界守卫",
+      "Celestial palace guard mecha in white and gold armor inspired by Chinese heavenly palace architecture, cloud-pattern engravings on armor plates, floating ribbon-like energy scarves, a mechanical lotus throne hovering behind, jade crown helmet with celestial bead ornaments, standing at the gates of a futuristic heavenly palace among clouds, divine golden light radiating, Chinese mythological sci-fi art",
+      "天宫守卫机甲，穿着受中国天宫建筑启发的白金铠甲，铠甲板上云纹雕刻，飘浮的丝带状能量围巾，身后悬浮的机械莲花宝座，玉冠头盔配天珠装饰，站在云端未来天宫大门前，神圣金色光芒辐射，中国神话科幻艺术",
+      "仙界设定、天宫场景、修仙游戏角色",
+      "3:4 / 9:16"
+    ]
+  ]
+}

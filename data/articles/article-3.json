@@ -1,7 +1,13 @@
 {
   "id": "article-3",
-  "title": "CSS Grid 布局完全指南",
-  "date": "2024-03-10",
-  "tags": ["技术", "前端", "CSS"],
-  "content": "<div class='article-content'><p>CSS Grid 是 CSS 中最强大的布局系统。它是一个二维布局系统，可以同时处理行和列。</p><h3>基本语法</h3><pre><code>.container {\n  display: grid;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-template-rows: auto;\n  gap: 20px;\n}</code></pre><h3>常用属性</h3><ul><li><code>grid-template-columns</code>：定义列</li><li><code>grid-template-rows</code>：定义行</li><li><code>gap</code>：设置网格间距</li><li><code>grid-column</code>：指定元素跨越的列</li><li><code>grid-row</code>：指定元素跨越的行</li></ul><h3>响应式设计</h3><p>Grid 与 <code>auto-fit</code> 和 <code>minmax()</code> 结合，可以轻松实现响应式布局：</p><pre><code>.grid {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n  gap: 1rem;\n}</code></pre><p>这种布局方式无需媒体查询即可实现响应式效果，非常适合现代 Web 开发。</p></div>"
+  "title": "GPT Image 2 三种使用模式",
+  "date": "2026-03-10",
+  "tags": [
+    "AI绘画",
+    "教程",
+    "API"
+  ],
+  "summary": "详细介绍GPT Image 2的三种使用模式：从零生成、编辑单张图像、多张图像融合。",
+  "cover": "",
+  "content": "<h1>GPT Image 2 三种使用模式</h1>\n<p>GPT Image 2 提供了三种不同的图像生成模式，适用于不同的使用场景。了解每种模式的特点和使用方法，可以帮助你更高效地生成想要的图像。</p>\n<h2>模式对比</h2>\n<table class=\"prompt-table\">\n<thead><tr>\n<th>模式</th>\n<th>端点 (API)</th>\n<th>用途说明</th>\n<th>提示词模板</th>\n</tr></thead>\n<tbody>\n<tr>\n<td>从零生成<br>(Text-to-Image)</td>\n<td>openai/gpt-image-2</td>\n<td>社论照片、海报、产品场景、概念艺术、标志、UI截图、插画</td>\n<td>Scene: [场景描述]<br>Subject: [主体描述]<br>Important details: [重要细节]<br>Use case: [用途]<br>Constraints: [约束条件]</td>\n</tr>\n<tr>\n<td>编辑单张图像<br>(Image Editing)</td>\n<td>openai/gpt-image-2/edit</td>\n<td>替换物体、更换服装、移除杂物、重新打光、替换天气或季节、清理背景</td>\n<td>Change: [确切应更改什么]<br>Preserve: [脸部、身份、姿势、光线、取景、背景等]<br>Constraints: [无多余物体、无重新设计等]</td>\n</tr>\n<tr>\n<td>组合多张图像<br>(Multi-Image)</td>\n<td>openai/gpt-image-2/edit</td>\n<td>虚拟试穿、风格迁移、合成、插入，或将风格参考与内容源混合</td>\n<td>Image 1: [角色描述]<br>Image 2: [角色描述]<br>Instruction: [具体指令]<br>Preserve: [保留内容]<br>Constraints: [约束条件]</td>\n</tr>\n</tbody>\n</table>"
 }

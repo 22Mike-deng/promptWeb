@@ -2,34 +2,50 @@
   "articles": [
     {
       "id": "article-1",
-      "title": "欢迎来到我的博客",
-      "summary": "这是我的第一篇博客文章，记录了我对技术和生活的思考。",
-      "tags": ["随笔", "生活"],
-      "date": "2024-01-15",
+      "title": "GPT Image 2 提示词大全",
+      "summary": "包含246条精心整理的GPT Image 2提示词，涵盖人像摄影、风景、产品、抽象艺术等多种类别。",
+      "tags": [
+        "AI绘画",
+        "提示词",
+        "教程"
+      ],
+      "date": "2026-01-15",
       "cover": ""
     },
     {
       "id": "article-2",
-      "title": "JavaScript 异步编程指南",
-      "summary": "深入理解 Promise、async/await 和事件循环机制。",
-      "tags": ["技术", "前端", "JavaScript"],
-      "date": "2024-02-20",
+      "title": "GPT Image 2 提示词编写指南",
+      "summary": "深入解析GPT Image 2提示词编写技巧，包含反垃圾规则、结构化提示方法等实用指南。",
+      "tags": [
+        "AI绘画",
+        "提示词",
+        "技巧"
+      ],
+      "date": "2026-02-20",
       "cover": ""
     },
     {
       "id": "article-3",
-      "title": "CSS Grid 布局完全指南",
-      "summary": "从入门到精通 CSS Grid 布局系统。",
-      "tags": ["技术", "前端", "CSS"],
-      "date": "2024-03-10",
+      "title": "GPT Image 2 三种使用模式",
+      "summary": "详细介绍GPT Image 2的三种使用模式：从零生成、编辑单张图像、多张图像融合。",
+      "tags": [
+        "AI绘画",
+        "教程",
+        "API"
+      ],
+      "date": "2026-03-10",
       "cover": ""
     },
     {
       "id": "article-4",
-      "title": "周末骑行日记",
-      "summary": "记录周末骑行经过的城市风景。",
-      "tags": ["生活", "骑行"],
-      "date": "2024-04-05",
+      "title": "GPT Image 2 角色立绘提示词大全",
+      "summary": "129条精心设计的角色立绘提示词，涵盖玄幻修仙、科幻机甲、日系动漫等多种风格。",
+      "tags": [
+        "AI绘画",
+        "提示词",
+        "角色设计"
+      ],
+      "date": "2026-04-05",
       "cover": ""
     }
   ]
