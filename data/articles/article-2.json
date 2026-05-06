@@ -1,0 +1,7 @@
+{
+  "id": "article-2",
+  "title": "JavaScript 异步编程指南",
+  "date": "2024-02-20",
+  "tags": ["技术", "前端", "JavaScript"],
+  "content": "<div class='article-content'><p>JavaScript 的异步编程是前端开发中的核心概念之一。理解它对于编写高效、可维护的代码至关重要。</p><h3>Promise 基础</h3><p>Promise 是异步编程的一种解决方案，它代表了一个异步操作的最终完成或失败。</p><pre><code>const promise = new Promise((resolve, reject) => {\n  // 异步操作\n  if (/* 成功 */) {\n    resolve('成功');\n  } else {\n    reject('失败');\n  }\n});</code></pre><h3>async/await</h3><p>async/await 是基于 Promise 的语法糖，它让异步代码看起来像同步代码，更易读。</p><pre><code>async function fetchData() {\n  try {\n    const response = await fetch('/api/data');\n    const data = await response.json();\n    return data;\n  } catch (error) {\n    console.error('获取数据失败:', error);\n  }\n}</code></pre><h3>事件循环</h3><p>JavaScript 的事件循环机制是理解异步行为的关键。它由调用栈、消息队列和事件循环三部分组成。</p><ul><li><strong>调用栈</strong>：执行函数调用</li><li><strong>消息队列</strong>：存放待执行的回调</li><li><strong>事件循环</strong>：检查调用栈是否为空，然后将消息队列中的回调推入调用栈</li></ul><p>掌握这些概念，能够帮助你更好地理解 JavaScript 的运行机制，写出更优秀的异步代码。</p></div>"
+}

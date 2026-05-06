@@ -1,0 +1,7 @@
+{
+  "id": "article-3",
+  "title": "CSS Grid 布局完全指南",
+  "date": "2024-03-10",
+  "tags": ["技术", "前端", "CSS"],
+  "content": "<div class='article-content'><p>CSS Grid 是 CSS 中最强大的布局系统。它是一个二维布局系统，可以同时处理行和列。</p><h3>基本语法</h3><pre><code>.container {\n  display: grid;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-template-rows: auto;\n  gap: 20px;\n}</code></pre><h3>常用属性</h3><ul><li><code>grid-template-columns</code>：定义列</li><li><code>grid-template-rows</code>：定义行</li><li><code>gap</code>：设置网格间距</li><li><code>grid-column</code>：指定元素跨越的列</li><li><code>grid-row</code>：指定元素跨越的行</li></ul><h3>响应式设计</h3><p>Grid 与 <code>auto-fit</code> 和 <code>minmax()</code> 结合，可以轻松实现响应式布局：</p><pre><code>.grid {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n  gap: 1rem;\n}</code></pre><p>这种布局方式无需媒体查询即可实现响应式效果，非常适合现代 Web 开发。</p></div>"
+}

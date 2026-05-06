@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "id": "article-1",
+      "title": "欢迎来到我的博客",
+      "summary": "这是我的第一篇博客文章，记录了我对技术和生活的思考。",
+      "tags": ["随笔", "生活"],
+      "date": "2024-01-15",
+      "cover": ""
+    },
+    {
+      "id": "article-2",
+      "title": "JavaScript 异步编程指南",
+      "summary": "深入理解 Promise、async/await 和事件循环机制。",
+      "tags": ["技术", "前端", "JavaScript"],
+      "date": "2024-02-20",
+      "cover": ""
+    },
+    {
+      "id": "article-3",
+      "title": "CSS Grid 布局完全指南",
+      "summary": "从入门到精通 CSS Grid 布局系统。",
+      "tags": ["技术", "前端", "CSS"],
+      "date": "2024-03-10",
+      "cover": ""
+    },
+    {
+      "id": "article-4",
+      "title": "周末骑行日记",
+      "summary": "记录周末骑行经过的城市风景。",
+      "tags": ["生活", "骑行"],
+      "date": "2024-04-05",
+      "cover": ""
+    }
+  ]
+}
