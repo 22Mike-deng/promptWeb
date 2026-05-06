@@ -2,13 +2,15 @@ const state = {
   articles: [],
   currentArticle: null,
   activeTag: null,
+  searchQuery: '',
   cache: {}
 };
 
 async function init() {
   await loadArticles();
-  renderTagFilter();
+  renderTagCloud();
   renderArticles();
+  updateStats();
   setupEventListeners();
 }
 
@@ -38,34 +40,48 @@ async function loadArticleDetail(id) {
 }
 
 function getAllTags() {
-  const tags = new Set();
+  const tagCounts = {};
   state.articles.forEach(article => {
-    article.tags.forEach(tag => tags.add(tag));
+    article.tags.forEach(tag => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
   });
-  return Array.from(tags).sort();
+  return Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
 }
 
 function getFilteredArticles() {
-  if (!state.activeTag) {
-    return state.articles;
+  let articles = state.articles;
+
+  if (state.activeTag) {
+    articles = articles.filter(article => article.tags.includes(state.activeTag));
   }
-  return state.articles.filter(article => article.tags.includes(state.activeTag));
+
+  if (state.searchQuery) {
+    const query = state.searchQuery.toLowerCase();
+    articles = articles.filter(article =>
+      article.title.toLowerCase().includes(query) ||
+      article.summary.toLowerCase().includes(query) ||
+      article.tags.some(tag => tag.toLowerCase().includes(query))
+    );
+  }
+
+  return articles;
 }
 
-function renderTagFilter() {
-  const container = document.getElementById('tagFilter');
+function renderTagCloud() {
+  const container = document.getElementById('tagCloud');
   const tags = getAllTags();
 
   const allBtn = document.createElement('button');
-  allBtn.className = `tag-btn ${!state.activeTag ? 'active' : ''}`;
-  allBtn.textContent = '全部';
+  allBtn.className = `tag-cloud-item ${!state.activeTag ? 'active' : ''}`;
+  allBtn.innerHTML = `<span class="tag-name">全部</span><span class="tag-count">${state.articles.length}</span>`;
   allBtn.addEventListener('click', () => filterByTag(null));
   container.appendChild(allBtn);
 
-  tags.forEach(tag => {
+  tags.forEach(([tag, count]) => {
     const btn = document.createElement('button');
-    btn.className = `tag-btn ${state.activeTag === tag ? 'active' : ''}`;
-    btn.textContent = tag;
+    btn.className = `tag-cloud-item ${state.activeTag === tag ? 'active' : ''}`;
+    btn.innerHTML = `<span class="tag-name">${tag}</span><span class="tag-count">${count}</span>`;
     btn.addEventListener('click', () => filterByTag(tag));
     container.appendChild(btn);
   });
@@ -73,37 +89,90 @@ function renderTagFilter() {
 
 function filterByTag(tag) {
   state.activeTag = tag;
-  const buttons = document.querySelectorAll('.tag-btn');
-  buttons.forEach(btn => {
-    btn.classList.toggle('active', btn.textContent === (tag || '全部'));
+
+  document.querySelectorAll('.tag-cloud-item').forEach(btn => {
+    const tagName = btn.querySelector('.tag-name').textContent;
+    btn.classList.toggle('active', tagName === (tag || '全部'));
   });
+
+  const titleEl = document.getElementById('contentTitle');
+  titleEl.textContent = tag ? `标签：${tag}` : '全部文章';
+
+  renderArticles();
+}
+
+function searchArticles(query) {
+  state.searchQuery = query;
+
+  const titleEl = document.getElementById('contentTitle');
+  if (query) {
+    titleEl.textContent = `搜索：${query}`;
+  } else {
+    titleEl.textContent = state.activeTag ? `标签：${state.activeTag}` : '全部文章';
+  }
+
   renderArticles();
 }
 
 function renderArticles() {
-  const container = document.getElementById('articlesGrid');
+  const container = document.getElementById('articlesList');
   const articles = getFilteredArticles();
+  const countEl = document.getElementById('contentCount');
+
+  countEl.textContent = `${articles.length} 篇`;
   container.innerHTML = '';
 
   if (articles.length === 0) {
-    container.innerHTML = '<p class="no-articles">暂无文章</p>';
+    container.innerHTML = `
+      <div class="no-articles">
+        <p>没有找到相关文章</p>
+        <button class="reset-btn" onclick="resetFilters()">重置筛选</button>
+      </div>
+    `;
     return;
   }
 
-  articles.forEach(article => {
-    const card = document.createElement('div');
-    card.className = 'article-card';
+  articles.forEach((article, index) => {
+    const card = document.createElement('article');
+    card.className = 'article-item';
+    card.style.animationDelay = `${index * 0.05}s`;
+
     card.innerHTML = `
-      <div class="article-date">${article.date}</div>
-      <h2 class="article-title">${article.title}</h2>
-      <p class="article-summary">${article.summary}</p>
-      <div class="article-tags">
-        ${article.tags.map(tag => `<span class="article-tag">${tag}</span>`).join('')}
+      <div class="article-item-header">
+        <time class="article-item-date">${article.date}</time>
+        <div class="article-item-tags">
+          ${article.tags.map(tag => `<span class="article-item-tag">${tag}</span>`).join('')}
+        </div>
+      </div>
+      <h3 class="article-item-title">${article.title}</h3>
+      <p class="article-item-summary">${article.summary}</p>
+      <div class="article-item-footer">
+        <span class="read-more">阅读全文 →</span>
       </div>
     `;
+
     card.addEventListener('click', () => openArticle(article.id));
     container.appendChild(card);
   });
+}
+
+function updateStats() {
+  document.getElementById('articleCount').textContent = state.articles.length;
+  document.getElementById('tagCount').textContent = getAllTags().length;
+}
+
+function resetFilters() {
+  state.activeTag = null;
+  state.searchQuery = '';
+  document.getElementById('searchInput').value = '';
+
+  document.querySelectorAll('.tag-cloud-item').forEach(btn => {
+    const tagName = btn.querySelector('.tag-name').textContent;
+    btn.classList.toggle('active', tagName === '全部');
+  });
+
+  document.getElementById('contentTitle').textContent = '全部文章';
+  renderArticles();
 }
 
 async function openArticle(id) {
@@ -118,7 +187,7 @@ async function openArticle(id) {
     <div class="detail-header">
       <h1 class="detail-title">${article.title}</h1>
       <div class="detail-meta">
-        <span>${article.date}</span>
+        <time>${article.date}</time>
         <div class="article-tags">
           ${article.tags.map(tag => `<span class="article-tag">${tag}</span>`).join('')}
         </div>
@@ -144,6 +213,23 @@ function setupEventListeners() {
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       closeArticle();
+    }
+  });
+
+  const searchInput = document.getElementById('searchInput');
+  const searchBtn = document.getElementById('searchBtn');
+
+  searchInput.addEventListener('input', (e) => {
+    searchArticles(e.target.value);
+  });
+
+  searchBtn.addEventListener('click', () => {
+    searchArticles(searchInput.value);
+  });
+
+  searchInput.addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') {
+      searchArticles(searchInput.value);
     }
   });
 }
