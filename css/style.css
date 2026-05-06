@@ -198,20 +198,21 @@ body {
 /* Article Detail Panel */
 .article-detail {
   position: fixed;
-  top: 0;
-  right: -100%;
+  inset: 0;
   width: 100%;
-  max-width: 800px;
   height: 100vh;
   background: var(--color-bg);
   z-index: 100;
-  transition: right var(--transition-base);
   overflow-y: auto;
   box-shadow: var(--shadow-lg);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity var(--transition-base), visibility var(--transition-base);
 }
 
 .article-detail.active {
-  right: 0;
+  opacity: 1;
+  visibility: visible;
 }
 
 .detail-content {
