@@ -232,6 +232,34 @@ function setupEventListeners() {
       searchArticles(searchInput.value);
     }
   });
+
+  // 文章详情内的筛选按钮事件委托
+  document.getElementById('detailBody').addEventListener('click', (e) => {
+    if (e.target.classList.contains('filter-btn')) {
+      const category = e.target.dataset.category;
+      filterArticleCards(category);
+    }
+  });
+}
+
+// 文章详情内的分类筛选功能
+function filterArticleCards(category) {
+  // Update active button
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.dataset.category === category) {
+      btn.classList.add('active');
+    }
+  });
+  
+  // Show/hide categories
+  document.querySelectorAll('.category-section').forEach(section => {
+    if (category === 'all' || section.dataset.category === category) {
+      section.style.display = 'block';
+    } else {
+      section.style.display = 'none';
+    }
+  });
 }
 
 document.addEventListener('DOMContentLoaded', init);
