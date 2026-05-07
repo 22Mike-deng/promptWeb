@@ -18,7 +18,7 @@ async function loadArticles() {
   try {
     const response = await fetch('data/index.json');
     const data = await response.json();
-    state.articles = data.articles;
+    state.articles = data.articles.sort((a, b) => new Date(b.date) - new Date(a.date));
   } catch (error) {
     console.error('加载文章失败:', error);
   }
