@@ -12,8 +12,8 @@
     <!-- 左侧边栏 -->
     <aside class="sidebar">
       <div class="sidebar-header">
-        <div class="avatar-container">
-          <img src="images/avatar.png" alt="头像" class="avatar" onerror="this.style.display='none'">
+        <div class="avatar-container" id="avatarContainer">
+          <img src="images/avatar.png" alt="头像" class="avatar" id="avatarImg" onerror="this.style.display='none'">
         </div>
         <h1 class="site-title">我的博客</h1>
         <p class="site-subtitle">记录思考，分享生活</p>
@@ -78,6 +78,52 @@
         </svg>
       </button>
       <div class="detail-body" id="detailBody"></div>
+    </div>
+  </aside>
+
+  <!-- 角色资料弹窗 -->
+  <aside class="profile-modal" id="profileModal">
+    <div class="profile-content">
+      <button class="profile-close-btn" id="profileCloseBtn">✕</button>
+      <div class="profile-header">
+        <div class="profile-title">角色档案</div>
+        <div class="profile-subtitle">CHARACTER PROFILE</div>
+      </div>
+      <div class="profile-body">
+        <!-- 左侧信息 -->
+        <div class="profile-left">
+          <div class="data-line" id="line1"></div>
+          <div class="data-line" id="line2"></div>
+          <div class="data-line" id="line3"></div>
+          <div class="data-line" id="line4"></div>
+          <div class="info-item" data-label="昵称">Sparta-Silence</div>
+          <div class="info-item" data-label="性别">男</div>
+          <div class="info-item" data-label="年龄">23岁</div>
+          <div class="info-item" data-label="生日">5月1日</div>
+        </div>
+        <!-- 中间头像 -->
+        <div class="profile-center">
+          <div class="avatar-frame">
+            <div class="avatar-glow"></div>
+            <img src="images/avatar.png" alt="头像" class="profile-avatar" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2280%22 height=%2280%22><rect width=%2280%22 height=%2280%22 fill=%22%233d2b5e%22/><text x=%2240%22 y=%2245%22 text-anchor=%22middle%22 fill=%22%23ffd700%22 font-size=%2230%22>?</text></svg>'">
+          </div>
+          <div class="avatar-decoration"></div>
+        </div>
+        <!-- 右侧信息 -->
+        <div class="profile-right">
+          <div class="data-line" id="line5"></div>
+          <div class="data-line" id="line6"></div>
+          <div class="data-line" id="line7"></div>
+          <div class="data-line" id="line8"></div>
+          <div class="info-item" data-label="邮箱">3291614511@qq.com</div>
+          <div class="info-item" data-label="GitHub">暂无</div>
+          <div class="info-item" data-label="专业">软件工程</div>
+          <div class="info-item" data-label="兴趣">听歌、打游戏</div>
+        </div>
+      </div>
+      <div class="profile-footer">
+        <div class="pixel-decoration">◆ ◆ ◆</div>
+      </div>
     </div>
   </aside>
 

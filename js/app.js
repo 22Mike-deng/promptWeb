@@ -262,4 +262,55 @@ function filterArticleCards(category) {
   });
 }
 
+// 角色资料弹窗功能
+function openProfileModal() {
+  const modal = document.getElementById('profileModal');
+  modal.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeProfileModal() {
+  const modal = document.getElementById('profileModal');
+  modal.classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+// 在 init 函数后添加头像点击事件
+function initProfileModal() {
+  const avatarContainer = document.getElementById('avatarContainer');
+  const profileCloseBtn = document.getElementById('profileCloseBtn');
+  const profileModal = document.getElementById('profileModal');
+  
+  if (avatarContainer) {
+    avatarContainer.addEventListener('click', openProfileModal);
+  }
+  
+  if (profileCloseBtn) {
+    profileCloseBtn.addEventListener('click', closeProfileModal);
+  }
+  
+  // 点击弹窗外部关闭
+  if (profileModal) {
+    profileModal.addEventListener('click', (e) => {
+      if (e.target === profileModal) {
+        closeProfileModal();
+      }
+    });
+  }
+  
+  // ESC 键关闭弹窗
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      closeProfileModal();
+    }
+  });
+}
+
+// 修改 init 函数，添加头像点击事件
+const originalInit = init;
+init = function() {
+  originalInit();
+  initProfileModal();
+};
+
 document.addEventListener('DOMContentLoaded', init);
