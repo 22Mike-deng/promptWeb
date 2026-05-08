@@ -16,9 +16,26 @@ async function init() {
 
 async function loadArticles() {
   try {
-    const response = await fetch('data/index.json');
+    const pathname = window.location.pathname;
+    const isAigcPage = pathname.includes('aigc.html');
+    
+    let url = 'data/index.json';
+    let dataKey = 'articles';
+    
+    if (isAigcPage) {
+      url = 'data/aigc.json';
+      dataKey = 'items';
+    }
+    
+    const response = await fetch(url);
     const data = await response.json();
-    state.articles = data.articles.sort((a, b) => new Date(b.date) - new Date(a.date));
+    const items = data[dataKey] || [];
+    
+    if (isAigcPage) {
+      state.articles = items;
+    } else {
+      state.articles = items.sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
   } catch (error) {
     console.error('加载文章失败:', error);
   }
